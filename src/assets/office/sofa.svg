@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="58" height="161" viewBox="0 0 58 161">
+    <g id="Componente_11_1" data-name="Componente 11 – 1" transform="translate(58) rotate(90)">
+        <g id="Rectángulo_114" data-name="Rectángulo 114" transform="translate(13)" fill="#7e510a" stroke="#694409" stroke-width="1">
+            <path d="M10,0H59A10,10,0,0,1,69,10V44a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V10A10,10,0,0,1,10,0Z" stroke="none"/>
+            <path d="M10,.5H59A9.5,9.5,0,0,1,68.5,10V43.5a0,0,0,0,1,0,0H.5a0,0,0,0,1,0,0V10A9.5,9.5,0,0,1,10,.5Z" fill="none"/>
+        </g>
+        <g id="Rectángulo_115" data-name="Rectángulo 115" transform="translate(79)" fill="#7e510a" stroke="#694409" stroke-width="1">
+            <path d="M10,0H58A10,10,0,0,1,68,10V44a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V10A10,10,0,0,1,10,0Z" stroke="none"/>
+            <path d="M10,.5H58A9.5,9.5,0,0,1,67.5,10V43.5a0,0,0,0,1,0,0H.5a0,0,0,0,1,0,0V10A9.5,9.5,0,0,1,10,.5Z" fill="none"/>
+        </g>
+        <g id="Rectángulo_116" data-name="Rectángulo 116" transform="translate(0 42)" fill="#7e510a" stroke="#694409" stroke-width="1">
+            <rect width="82" height="16" stroke="none"/>
+            <rect x="0.5" y="0.5" width="81" height="15" fill="none"/>
+        </g>
+        <g id="Rectángulo_117" data-name="Rectángulo 117" transform="translate(79 42)" fill="#7e510a" stroke="#694409" stroke-width="1">
+            <rect width="82" height="16" stroke="none"/>
+            <rect x="0.5" y="0.5" width="81" height="15" fill="none"/>
+        </g>
+        <g id="Rectángulo_118" data-name="Rectángulo 118" fill="#7e510a" stroke="#694409" stroke-width="1">
+            <path d="M8,0H8a8,8,0,0,1,8,8V43a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V8A8,8,0,0,1,8,0Z" stroke="none"/>
+            <path d="M8,.5H8A7.5,7.5,0,0,1,15.5,8V42.5a0,0,0,0,1,0,0H.5a0,0,0,0,1,0,0V8A7.5,7.5,0,0,1,8,.5Z" fill="none"/>
+        </g>
+        <g id="Rectángulo_119" data-name="Rectángulo 119" transform="translate(145)" fill="#7e510a" stroke="#694409" stroke-width="1">
+            <path d="M8,0H8a8,8,0,0,1,8,8V43a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V8A8,8,0,0,1,8,0Z" stroke="none"/>
+            <path d="M8,.5H8A7.5,7.5,0,0,1,15.5,8V42.5a0,0,0,0,1,0,0H.5a0,0,0,0,1,0,0V8A7.5,7.5,0,0,1,8,.5Z" fill="none"/>
+        </g>
+    </g>
+</svg>

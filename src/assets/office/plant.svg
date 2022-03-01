@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="74.229" height="74.229" viewBox="0 0 74.229 74.229">
+    <defs>
+        <filter id="Elipse_1" x="0" y="0" width="74.229" height="74.229" filterUnits="userSpaceOnUse">
+            <feOffset dy="3" input="SourceAlpha"/>
+            <feGaussianBlur stdDeviation="3" result="blur"/>
+            <feFlood flood-opacity="0.161"/>
+            <feComposite operator="in" in2="blur"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+    </defs>
+    <g id="Planta" transform="matrix(-0.755, 0.656, -0.656, -0.755, 67.335, 38.503)">
+        <g transform="matrix(-0.75, -0.66, 0.66, -0.75, 25.56, 73.23)" filter="url(#Elipse_1)">
+            <g id="Elipse_1-2" data-name="Elipse 1" transform="matrix(-0.75, 0.66, -0.66, -0.75, 65.23, 36.08)" fill="#573f00" stroke="#8d6926" stroke-width="3">
+                <circle cx="19.929" cy="19.929" r="19.929" stroke="none"/>
+                <circle cx="19.929" cy="19.929" r="18.429" fill="none"/>
+            </g>
+        </g>
+        <ellipse id="Elipse_3" data-name="Elipse 3" cx="13.421" cy="4.474" rx="13.421" ry="4.474" transform="translate(15.455 18.665)" fill="#078102"/>
+        <circle id="Elipse_2" data-name="Elipse 2" cx="4.474" cy="4.474" r="4.474" transform="translate(15.455 18.665)" fill="#078102"/>
+        <ellipse id="Elipse_4" data-name="Elipse 4" cx="13.342" cy="4.447" rx="13.342" ry="4.447" transform="matrix(0.469, -0.883, 0.883, 0.469, 14.155, 23.561)" fill="#078102"/>
+    </g>
+</svg>

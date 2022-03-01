@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="199" height="334" viewBox="0 0 199 334">
+    <defs>
+        <filter id="Rectángulo_11" x="61" y="124" width="79" height="111" filterUnits="userSpaceOnUse">
+            <feOffset dy="3" input="SourceAlpha"/>
+            <feGaussianBlur stdDeviation="3" result="blur"/>
+            <feFlood flood-opacity="0.161"/>
+            <feComposite operator="in" in2="blur"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="Rectángulo_73" x="18" y="0" width="163" height="200" filterUnits="userSpaceOnUse">
+            <feOffset dy="3" input="SourceAlpha"/>
+            <feGaussianBlur stdDeviation="3" result="blur-2"/>
+            <feFlood flood-opacity="0.161"/>
+            <feComposite operator="in" in2="blur-2"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="Rectángulo_75" x="76" y="227" width="47" height="107" filterUnits="userSpaceOnUse">
+            <feOffset dy="3" input="SourceAlpha"/>
+            <feGaussianBlur stdDeviation="3" result="blur-3"/>
+            <feFlood flood-opacity="0.161"/>
+            <feComposite operator="in" in2="blur-3"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="Rectángulo_74" x="12" y="193" width="175" height="70" filterUnits="userSpaceOnUse">
+            <feOffset dy="3" input="SourceAlpha"/>
+            <feGaussianBlur stdDeviation="3" result="blur-4"/>
+            <feFlood flood-opacity="0.161"/>
+            <feComposite operator="in" in2="blur-4"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+    </defs>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectángulo_11)">
+        <rect id="Rectángulo_11-2" data-name="Rectángulo 11" width="53" height="85" rx="20" transform="translate(74 134)" fill="#f0ddc2" stroke="#fff" stroke-linejoin="bevel" stroke-width="8"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectángulo_73)">
+        <g id="Rectángulo_73-2" data-name="Rectángulo 73" transform="translate(27 6)" fill="#9e5e03" stroke="#fff" stroke-width="8">
+            <path d="M72.5,0h0A72.5,72.5,0,0,1,145,72.5v73.25A36.25,36.25,0,0,1,108.75,182H36.25A36.25,36.25,0,0,1,0,145.75V72.5A72.5,72.5,0,0,1,72.5,0Z" stroke="none"/>
+            <path d="M72.5,4h0A68.5,68.5,0,0,1,141,72.5v73.053A32.447,32.447,0,0,1,108.553,178H36.447A32.447,32.447,0,0,1,4,145.553V72.5A68.5,68.5,0,0,1,72.5,4Z" fill="none"/>
+        </g>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectángulo_75)">
+        <rect id="Rectángulo_75-2" data-name="Rectángulo 75" width="25" height="85" rx="12.5" transform="translate(87 235)" fill="#f0ddc2" stroke="#fff" stroke-linejoin="bevel" stroke-width="4"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectángulo_74)">
+        <g id="Rectángulo_74-2" data-name="Rectángulo 74" transform="translate(21 199)" fill="#9e5e03" stroke="#fff" stroke-width="8">
+            <rect width="157" height="52" rx="26" stroke="none"/>
+            <rect x="4" y="4" width="149" height="44" rx="22" fill="none"/>
+        </g>
+    </g>
+    <g id="Rectángulo_76" data-name="Rectángulo 76" transform="translate(8 189)" fill="#9e5e03" stroke="#fff" stroke-width="8">
+        <rect width="13" height="45" rx="6.5" stroke="none"/>
+        <rect x="-4" y="-4" width="21" height="53" rx="10.5" fill="none"/>
+    </g>
+    <g id="Rectángulo_77" data-name="Rectángulo 77" transform="translate(178 189)" fill="#9e5e03" stroke="#fff" stroke-width="8">
+        <rect width="13" height="45" rx="6.5" stroke="none"/>
+        <rect x="-4" y="-4" width="21" height="53" rx="10.5" fill="none"/>
+    </g>
+</svg>

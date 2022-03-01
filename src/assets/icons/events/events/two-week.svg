@@ -1,0 +1,247 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="199" height="187" viewBox="0 0 199 187">
+    <defs>
+        <filter id="Rectángulo_91" x="0" y="11" width="199" height="176" filterUnits="userSpaceOnUse">
+            <feOffset dy="3" input="SourceAlpha"/>
+            <feGaussianBlur stdDeviation="3" result="blur"/>
+            <feFlood flood-opacity="0.161"/>
+            <feComposite operator="in" in2="blur"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <clipPath id="clip-path">
+            <rect width="170" height="112" fill="none"/>
+        </clipPath>
+    </defs>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectángulo_91)">
+        <g id="Rectángulo_91-2" data-name="Rectángulo 91" transform="translate(9 17)" fill="#ddf0c2" stroke="#5e9e03" stroke-width="8">
+            <rect width="181" height="158" rx="20" stroke="none"/>
+            <rect x="4" y="4" width="173" height="150" rx="16" fill="none"/>
+        </g>
+    </g>
+    <rect id="Rectángulo_92" data-name="Rectángulo 92" width="29" height="33" rx="14.5" transform="translate(41)" fill="#5e9e03"/>
+    <rect id="Rectángulo_93" data-name="Rectángulo 93" width="28" height="37" rx="14" transform="translate(129)" fill="#5e9e03"/>
+    <path id="Rectángulo_94" data-name="Rectángulo 94" d="M6,0H173a0,0,0,0,1,0,0V36a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V6A6,6,0,0,1,6,0Z" transform="translate(12 24)" fill="#5e9e03"/>
+    <path id="Polígono_11" data-name="Polígono 11" d="M9.5,0l2.85,6.043L19,6.875l-4.889,4.567L15.371,18,9.5,14.78,3.629,18l1.26-6.557L0,6.875l6.65-.833Z" transform="translate(20 63)" fill="#5e9e03"/>
+    <g id="Cuadrícula_de_repetición_2" data-name="Cuadrícula de repetición 2" transform="translate(14 57)" clip-path="url(#clip-path)">
+        <g transform="translate(-118 -214)">
+            <g id="Rectángulo_95" data-name="Rectángulo 95" transform="translate(122 218)" fill="none" stroke="#5e9e03" stroke-width="4">
+                <rect width="23" height="23" stroke="none"/>
+                <rect x="-2" y="-2" width="27" height="27" fill="none"/>
+            </g>
+        </g>
+        <g transform="translate(-90 -214)">
+            <g id="Rectángulo_95-2" data-name="Rectángulo 95" transform="translate(122 218)" fill="none" stroke="#5e9e03" stroke-width="4">
+                <rect width="23" height="23" stroke="none"/>
+                <rect x="-2" y="-2" width="27" height="27" fill="none"/>
+            </g>
+        </g>
+        <g transform="translate(-62 -214)">
+            <g id="Rectángulo_95-3" data-name="Rectángulo 95" transform="translate(122 218)" fill="none" stroke="#5e9e03" stroke-width="4">
+                <rect width="23" height="23" stroke="none"/>
+                <rect x="-2" y="-2" width="27" height="27" fill="none"/>
+            </g>
+        </g>
+        <g transform="translate(-34 -214)">
+            <g id="Rectángulo_95-4" data-name="Rectángulo 95" transform="translate(122 218)" fill="none" stroke="#5e9e03" stroke-width="4">
+                <rect width="23" height="23" stroke="none"/>
+                <rect x="-2" y="-2" width="27" height="27" fill="none"/>
+            </g>
+        </g>
+        <g transform="translate(-6 -214)">
+            <g id="Rectángulo_95-5" data-name="Rectángulo 95" transform="translate(122 218)" fill="none" stroke="#5e9e03" stroke-width="4">
+                <rect width="23" height="23" stroke="none"/>
+                <rect x="-2" y="-2" width="27" height="27" fill="none"/>
+            </g>
+        </g>
+        <g transform="translate(22 -214)">
+            <g id="Rectángulo_95-6" data-name="Rectángulo 95" transform="translate(122 218)" fill="none" stroke="#5e9e03" stroke-width="4">
+                <rect width="23" height="23" stroke="none"/>
+                <rect x="-2" y="-2" width="27" height="27" fill="none"/>
+            </g>
+        </g>
+        <g transform="translate(50 -214)">
+            <g id="Rectángulo_95-7" data-name="Rectángulo 95" transform="translate(122 218)" fill="none" stroke="#5e9e03" stroke-width="4">
+                <rect width="23" height="23" stroke="none"/>
+                <rect x="-2" y="-2" width="27" height="27" fill="none"/>
+            </g>
+        </g>
+        <g transform="translate(-118 -187)">
+            <g id="Rectángulo_95-8" data-name="Rectángulo 95" transform="translate(122 218)" fill="none" stroke="#5e9e03" stroke-width="4">
+                <rect width="23" height="23" stroke="none"/>
+                <rect x="-2" y="-2" width="27" height="27" fill="none"/>
+            </g>
+        </g>
+        <g transform="translate(-90 -187)">
+            <g id="Rectángulo_95-9" data-name="Rectángulo 95" transform="translate(122 218)" fill="none" stroke="#5e9e03" stroke-width="4">
+                <rect width="23" height="23" stroke="none"/>
+                <rect x="-2" y="-2" width="27" height="27" fill="none"/>
+            </g>
+        </g>
+        <g transform="translate(-62 -187)">
+            <g id="Rectángulo_95-10" data-name="Rectángulo 95" transform="translate(122 218)" fill="none" stroke="#5e9e03" stroke-width="4">
+                <rect width="23" height="23" stroke="none"/>
+                <rect x="-2" y="-2" width="27" height="27" fill="none"/>
+            </g>
+        </g>
+        <g transform="translate(-34 -187)">
+            <g id="Rectángulo_95-11" data-name="Rectángulo 95" transform="translate(122 218)" fill="none" stroke="#5e9e03" stroke-width="4">
+                <rect width="23" height="23" stroke="none"/>
+                <rect x="-2" y="-2" width="27" height="27" fill="none"/>
+            </g>
+        </g>
+        <g transform="translate(-6 -187)">
+            <g id="Rectángulo_95-12" data-name="Rectángulo 95" transform="translate(122 218)" fill="none" stroke="#5e9e03" stroke-width="4">
+                <rect width="23" height="23" stroke="none"/>
+                <rect x="-2" y="-2" width="27" height="27" fill="none"/>
+            </g>
+        </g>
+        <g transform="translate(22 -187)">
+            <g id="Rectángulo_95-13" data-name="Rectángulo 95" transform="translate(122 218)" fill="none" stroke="#5e9e03" stroke-width="4">
+                <rect width="23" height="23" stroke="none"/>
+                <rect x="-2" y="-2" width="27" height="27" fill="none"/>
+            </g>
+        </g>
+        <g transform="translate(50 -187)">
+            <g id="Rectángulo_95-14" data-name="Rectángulo 95" transform="translate(122 218)" fill="none" stroke="#5e9e03" stroke-width="4">
+                <rect width="23" height="23" stroke="none"/>
+                <rect x="-2" y="-2" width="27" height="27" fill="none"/>
+            </g>
+        </g>
+        <g transform="translate(-118 -160)">
+            <g id="Rectángulo_95-15" data-name="Rectángulo 95" transform="translate(122 218)" fill="none" stroke="#5e9e03" stroke-width="4">
+                <rect width="23" height="23" stroke="none"/>
+                <rect x="-2" y="-2" width="27" height="27" fill="none"/>
+            </g>
+        </g>
+        <g transform="translate(-90 -160)">
+            <g id="Rectángulo_95-16" data-name="Rectángulo 95" transform="translate(122 218)" fill="none" stroke="#5e9e03" stroke-width="4">
+                <rect width="23" height="23" stroke="none"/>
+                <rect x="-2" y="-2" width="27" height="27" fill="none"/>
+            </g>
+        </g>
+        <g transform="translate(-62 -160)">
+            <g id="Rectángulo_95-17" data-name="Rectángulo 95" transform="translate(122 218)" fill="none" stroke="#5e9e03" stroke-width="4">
+                <rect width="23" height="23" stroke="none"/>
+                <rect x="-2" y="-2" width="27" height="27" fill="none"/>
+            </g>
+        </g>
+        <g transform="translate(-34 -160)">
+            <g id="Rectángulo_95-18" data-name="Rectángulo 95" transform="translate(122 218)" fill="none" stroke="#5e9e03" stroke-width="4">
+                <rect width="23" height="23" stroke="none"/>
+                <rect x="-2" y="-2" width="27" height="27" fill="none"/>
+            </g>
+        </g>
+        <g transform="translate(-6 -160)">
+            <g id="Rectángulo_95-19" data-name="Rectángulo 95" transform="translate(122 218)" fill="none" stroke="#5e9e03" stroke-width="4">
+                <rect width="23" height="23" stroke="none"/>
+                <rect x="-2" y="-2" width="27" height="27" fill="none"/>
+            </g>
+        </g>
+        <g transform="translate(22 -160)">
+            <g id="Rectángulo_95-20" data-name="Rectángulo 95" transform="translate(122 218)" fill="none" stroke="#5e9e03" stroke-width="4">
+                <rect width="23" height="23" stroke="none"/>
+                <rect x="-2" y="-2" width="27" height="27" fill="none"/>
+            </g>
+        </g>
+        <g transform="translate(50 -160)">
+            <g id="Rectángulo_95-21" data-name="Rectángulo 95" transform="translate(122 218)" fill="none" stroke="#5e9e03" stroke-width="4">
+                <rect width="23" height="23" stroke="none"/>
+                <rect x="-2" y="-2" width="27" height="27" fill="none"/>
+            </g>
+        </g>
+        <g transform="translate(-118 -133)">
+            <g id="Rectángulo_95-22" data-name="Rectángulo 95" transform="translate(122 218)" fill="none" stroke="#5e9e03" stroke-width="4">
+                <rect width="23" height="23" stroke="none"/>
+                <rect x="-2" y="-2" width="27" height="27" fill="none"/>
+            </g>
+        </g>
+        <g transform="translate(-90 -133)">
+            <g id="Rectángulo_95-23" data-name="Rectángulo 95" transform="translate(122 218)" fill="none" stroke="#5e9e03" stroke-width="4">
+                <rect width="23" height="23" stroke="none"/>
+                <rect x="-2" y="-2" width="27" height="27" fill="none"/>
+            </g>
+        </g>
+        <g transform="translate(-62 -133)">
+            <g id="Rectángulo_95-24" data-name="Rectángulo 95" transform="translate(122 218)" fill="none" stroke="#5e9e03" stroke-width="4">
+                <rect width="23" height="23" stroke="none"/>
+                <rect x="-2" y="-2" width="27" height="27" fill="none"/>
+            </g>
+        </g>
+        <g transform="translate(-34 -133)">
+            <g id="Rectángulo_95-25" data-name="Rectángulo 95" transform="translate(122 218)" fill="none" stroke="#5e9e03" stroke-width="4">
+                <rect width="23" height="23" stroke="none"/>
+                <rect x="-2" y="-2" width="27" height="27" fill="none"/>
+            </g>
+        </g>
+        <g transform="translate(-6 -133)">
+            <g id="Rectángulo_95-26" data-name="Rectángulo 95" transform="translate(122 218)" fill="none" stroke="#5e9e03" stroke-width="4">
+                <rect width="23" height="23" stroke="none"/>
+                <rect x="-2" y="-2" width="27" height="27" fill="none"/>
+            </g>
+        </g>
+        <g transform="translate(22 -133)">
+            <g id="Rectángulo_95-27" data-name="Rectángulo 95" transform="translate(122 218)" fill="none" stroke="#5e9e03" stroke-width="4">
+                <rect width="23" height="23" stroke="none"/>
+                <rect x="-2" y="-2" width="27" height="27" fill="none"/>
+            </g>
+        </g>
+        <g transform="translate(50 -133)">
+            <g id="Rectángulo_95-28" data-name="Rectángulo 95" transform="translate(122 218)" fill="none" stroke="#5e9e03" stroke-width="4">
+                <rect width="23" height="23" stroke="none"/>
+                <rect x="-2" y="-2" width="27" height="27" fill="none"/>
+            </g>
+        </g>
+        <g transform="translate(-118 -106)">
+            <g id="Rectángulo_95-29" data-name="Rectángulo 95" transform="translate(122 218)" fill="none" stroke="#5e9e03" stroke-width="4">
+                <rect width="23" height="23" stroke="none"/>
+                <rect x="-2" y="-2" width="27" height="27" fill="none"/>
+            </g>
+        </g>
+        <g transform="translate(-90 -106)">
+            <g id="Rectángulo_95-30" data-name="Rectángulo 95" transform="translate(122 218)" fill="none" stroke="#5e9e03" stroke-width="4">
+                <rect width="23" height="23" stroke="none"/>
+                <rect x="-2" y="-2" width="27" height="27" fill="none"/>
+            </g>
+        </g>
+        <g transform="translate(-62 -106)">
+            <g id="Rectángulo_95-31" data-name="Rectángulo 95" transform="translate(122 218)" fill="none" stroke="#5e9e03" stroke-width="4">
+                <rect width="23" height="23" stroke="none"/>
+                <rect x="-2" y="-2" width="27" height="27" fill="none"/>
+            </g>
+        </g>
+        <g transform="translate(-34 -106)">
+            <g id="Rectángulo_95-32" data-name="Rectángulo 95" transform="translate(122 218)" fill="none" stroke="#5e9e03" stroke-width="4">
+                <rect width="23" height="23" stroke="none"/>
+                <rect x="-2" y="-2" width="27" height="27" fill="none"/>
+            </g>
+        </g>
+        <g transform="translate(-6 -106)">
+            <g id="Rectángulo_95-33" data-name="Rectángulo 95" transform="translate(122 218)" fill="none" stroke="#5e9e03" stroke-width="4">
+                <rect width="23" height="23" stroke="none"/>
+                <rect x="-2" y="-2" width="27" height="27" fill="none"/>
+            </g>
+        </g>
+        <g transform="translate(22 -106)">
+            <g id="Rectángulo_95-34" data-name="Rectángulo 95" transform="translate(122 218)" fill="none" stroke="#5e9e03" stroke-width="4">
+                <rect width="23" height="23" stroke="none"/>
+                <rect x="-2" y="-2" width="27" height="27" fill="none"/>
+            </g>
+        </g>
+        <g transform="translate(50 -106)">
+            <g id="Rectángulo_95-35" data-name="Rectángulo 95" transform="translate(122 218)" fill="none" stroke="#5e9e03" stroke-width="4">
+                <rect width="23" height="23" stroke="none"/>
+                <rect x="-2" y="-2" width="27" height="27" fill="none"/>
+            </g>
+        </g>
+    </g>
+    <path id="Polígono_12" data-name="Polígono 12" d="M9.5,0l2.85,6.043L19,6.875l-4.889,4.567L15.371,18,9.5,14.78,3.629,18l1.26-6.557L0,6.875l6.65-.833Z" transform="translate(48 63)" fill="#5e9e03"/>
+    <path id="Polígono_13" data-name="Polígono 13" d="M9.5,0l2.85,6.043L19,6.875l-4.889,4.567L15.371,18,9.5,14.78,3.629,18l1.26-6.557L0,6.875l6.65-.833Z" transform="translate(76 63)" fill="#5e9e03"/>
+    <path id="Polígono_14" data-name="Polígono 14" d="M9.5,0l2.85,6.043L19,6.875l-4.889,4.567L15.371,18,9.5,14.78,3.629,18l1.26-6.557L0,6.875l6.65-.833Z" transform="translate(104 63)" fill="#5e9e03"/>
+    <path id="Polígono_15" data-name="Polígono 15" d="M9.5,0l2.85,6.043L19,6.875l-4.889,4.567L15.371,18,9.5,14.78,3.629,18l1.26-6.557L0,6.875l6.65-.833Z" transform="translate(132 63)" fill="#5e9e03"/>
+    <path id="Polígono_16" data-name="Polígono 16" d="M9.5,0l2.85,6.043L19,6.875l-4.889,4.567L15.371,18,9.5,14.78,3.629,18l1.26-6.557L0,6.875l6.65-.833Z" transform="translate(160 63)" fill="#5e9e03"/>
+    <path id="Polígono_17" data-name="Polígono 17" d="M9.5,0l2.85,6.043L19,6.875l-4.889,4.567L15.371,18,9.5,14.78,3.629,18l1.26-6.557L0,6.875l6.65-.833Z" transform="translate(20 90)" fill="#5e9e03"/>
+    <path id="Polígono_18" data-name="Polígono 18" d="M9.5,0l2.85,6.043L19,6.875l-4.889,4.567L15.371,18,9.5,14.78,3.629,18l1.26-6.557L0,6.875l6.65-.833Z" transform="translate(48 90)" fill="#5e9e03"/>
+    <path id="Polígono_19" data-name="Polígono 19" d="M9.5,0l2.85,6.043L19,6.875l-4.889,4.567L15.371,18,9.5,14.78,3.629,18l1.26-6.557L0,6.875l6.65-.833Z" transform="translate(76 90)" fill="#5e9e03"/>
+    <path id="Polígono_20" data-name="Polígono 20" d="M9.5,0l2.85,6.043L19,6.875l-4.889,4.567L15.371,18,9.5,14.78,3.629,18l1.26-6.557L0,6.875l6.65-.833Z" transform="translate(104 90)" fill="#5e9e03"/>
+    <path id="Polígono_21" data-name="Polígono 21" d="M9.5,0l2.85,6.043L19,6.875l-4.889,4.567L15.371,18,9.5,14.78,3.629,18l1.26-6.557L0,6.875l6.65-.833Z" transform="translate(132 90)" fill="#5e9e03"/>
+    <path id="Polígono_22" data-name="Polígono 22" d="M9.5,0l2.85,6.043L19,6.875l-4.889,4.567L15.371,18,9.5,14.78,3.629,18l1.26-6.557L0,6.875l6.65-.833Z" transform="translate(160 90)" fill="#5e9e03"/>
+</svg>

@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="281.328" height="346.757" viewBox="0 0 281.328 346.757">
+    <defs>
+        <filter id="Rectángulo_1" x="0" y="0" width="231.616" height="104.215" filterUnits="userSpaceOnUse">
+            <feOffset dy="3" input="SourceAlpha"/>
+            <feGaussianBlur stdDeviation="3" result="blur"/>
+            <feFlood flood-color="#7d4a02" flood-opacity="0.231"/>
+            <feComposite operator="in" in2="blur"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="Rectángulo_12" x="110.645" y="179.816" width="85.386" height="74.144" filterUnits="userSpaceOnUse">
+            <feOffset dy="3" input="SourceAlpha"/>
+            <feGaussianBlur stdDeviation="3" result="blur-2"/>
+            <feFlood flood-opacity="0.161"/>
+            <feComposite operator="in" in2="blur-2"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="Rectángulo_11" x="109.29" y="125.777" width="71.973" height="107.945" filterUnits="userSpaceOnUse">
+            <feOffset dy="3" input="SourceAlpha"/>
+            <feGaussianBlur stdDeviation="3" result="blur-3"/>
+            <feFlood flood-opacity="0.161"/>
+            <feComposite operator="in" in2="blur-3"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="Rectángulo_10" x="58.697" y="83.782" width="157.767" height="127.752" filterUnits="userSpaceOnUse">
+            <feOffset dy="3" input="SourceAlpha"/>
+            <feGaussianBlur stdDeviation="3" result="blur-4"/>
+            <feFlood flood-opacity="0.161"/>
+            <feComposite operator="in" in2="blur-4"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="Rectángulo_3" x="53.76" y="196.674" width="226.524" height="150.083" filterUnits="userSpaceOnUse">
+            <feOffset dy="3" input="SourceAlpha"/>
+            <feGaussianBlur stdDeviation="3" result="blur-5"/>
+            <feFlood flood-opacity="0.161"/>
+            <feComposite operator="in" in2="blur-5"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+    </defs>
+    <g id="Componente_8_2" data-name="Componente 8 – 2" transform="translate(9 53.24) rotate(-13)">
+        <rect id="Rectángulo_2" data-name="Rectángulo 2" width="210" height="263.986" transform="translate(0 37.014)" fill="#d6b689"/>
+        <g transform="matrix(0.97, 0.22, -0.22, 0.97, 3.21, -53.9)" filter="url(#Rectángulo_1)">
+            <rect id="Rectángulo_1-2" data-name="Rectángulo 1" width="210" height="40" transform="translate(9 53.24) rotate(-13)" fill="#9e5e03"/>
+        </g>
+        <text id="Bureau" transform="translate(67 26)" fill="#fff" font-size="21" font-family="AvenirNext-UltraLight, Avenir Next" font-weight="100"><tspan x="0" y="0">Bureau</tspan></text>
+        <rect id="Rectángulo_6" data-name="Rectángulo 6" width="24.132" height="24.132" transform="translate(182.531 2.704) rotate(45)" fill="#f0ddc2"/>
+        <text id="_-500" data-name="-500" transform="translate(175 26)" fill="#9e5e03" font-size="7" font-family="AvenirNext-Medium, Avenir Next" font-weight="500"><tspan x="0" y="0">-500</tspan></text>
+        <path id="Icon_awesome-coins" data-name="Icon awesome-coins" d="M0,5.754v.606c0,.5,1.221.909,2.726.909s2.726-.407,2.726-.909V5.754a5.163,5.163,0,0,1-2.726.606A5.163,5.163,0,0,1,0,5.754ZM4.543,1.817c1.5,0,2.726-.407,2.726-.909S6.048,0,4.543,0,1.817.407,1.817.909,3.038,1.817,4.543,1.817ZM0,4.265V5c0,.5,1.221.909,2.726.909S5.452,5.5,5.452,5V4.265A4.572,4.572,0,0,1,2.726,5,4.572,4.572,0,0,1,0,4.265Zm5.906.156c.814-.158,1.363-.45,1.363-.787V3.028a3.487,3.487,0,0,1-1.363.49Zm-3.18-2.15C1.221,2.272,0,2.78,0,3.407S1.221,4.543,2.726,4.543s2.726-.508,2.726-1.136S4.231,2.272,2.726,2.272Zm3.114.8c.852-.153,1.43-.454,1.43-.8V1.665a4.622,4.622,0,0,1-2.282.593A1.59,1.59,0,0,1,5.84,3.071Z" transform="translate(178.896 8.985)" fill="#9e5e03"/>
+        <g transform="matrix(0.97, 0.22, -0.22, 0.97, 3.21, -53.9)" filter="url(#Rectángulo_12)">
+            <rect id="Rectángulo_12-2" data-name="Rectángulo 12" width="51" height="36" rx="18" transform="translate(124.44 202.09) rotate(-13)" fill="#f0ddc2" stroke="#fff" stroke-linejoin="bevel" stroke-width="8"/>
+        </g>
+        <g transform="matrix(0.97, 0.22, -0.22, 0.97, 3.21, -53.9)" filter="url(#Rectángulo_11)">
+            <rect id="Rectángulo_11-2" data-name="Rectángulo 11" width="28" height="76" rx="14" transform="translate(123.09 142.87) rotate(-13)" fill="#f0ddc2" stroke="#fff" stroke-linejoin="bevel" stroke-width="8"/>
+        </g>
+        <g transform="matrix(0.97, 0.22, -0.22, 0.97, 3.21, -53.9)" filter="url(#Rectángulo_10)">
+            <rect id="Rectángulo_10-2" data-name="Rectángulo 10" width="116.051" height="76" rx="20" transform="translate(72.49 120.69) rotate(-13)" fill="#f0ddc2" stroke="#fff" stroke-linejoin="bevel" stroke-width="8"/>
+        </g>
+        <line id="Línea_3" data-name="Línea 3" y1="0.513" x2="107.824" transform="translate(51.088 149.67)" fill="none" stroke="#9e5e03" stroke-width="15"/>
+        <g id="Rectángulo_14" data-name="Rectángulo 14" transform="translate(58 88)" fill="none" stroke="#9e5e03" stroke-width="2">
+            <rect width="9" height="10" rx="4.5" stroke="none"/>
+            <rect x="1" y="1" width="7" height="8" rx="3.5" fill="none"/>
+        </g>
+        <g id="Rectángulo_15" data-name="Rectángulo 15" transform="translate(58 103)" fill="none" stroke="#9e5e03" stroke-width="2">
+            <rect width="9" height="9" rx="4.5" stroke="none"/>
+            <rect x="1" y="1" width="7" height="7" rx="3.5" fill="none"/>
+        </g>
+        <g transform="matrix(0.97, 0.22, -0.22, 0.97, 3.21, -53.9)" filter="url(#Rectángulo_3)">
+            <rect id="Rectángulo_3-2" data-name="Rectángulo 3" width="193" height="91" rx="20" transform="translate(62.76 246.09) rotate(-13)" fill="#fff"/>
+        </g>
+        <text id="Oficina_de_ordenador" data-name="Oficina de ordenador" transform="translate(70 216)" font-size="7" font-family="AvenirNext-Regular, Avenir Next"><tspan x="0" y="0">Oficina de ordenador</tspan></text>
+        <text id="Lorem_ipsum_dolor_sit_amet_consectetur_adipiscing._Sed_pellentesque_massa_at_eros_placerat_ornare._Nunc_ullamcorper_vel_leo_ut_consectetur._" data-name="Lorem ipsum dolor sit amet, consectetur adipiscing.
+Sed pellentesque massa at eros placerat ornare.
+Nunc ullamcorper vel leo ut consectetur. " transform="translate(17 232)" font-size="6" font-family="AvenirNext-UltraLight, Avenir Next" font-weight="100"><tspan x="0" y="0">Lorem ipsum dolor sit amet, consectetur adipiscing. </tspan><tspan x="0" y="8">Sed pellentesque massa at eros placerat ornare. </tspan><tspan x="0" y="16">Nunc ullamcorper vel leo ut consectetur. </tspan></text>
+        <rect id="Rectángulo_7" data-name="Rectángulo 7" width="65" height="14" rx="7" transform="translate(13 264)" fill="#f0ddc2"/>
+        <text id="_100_Horas_mes" data-name="+100 Horas/mes" transform="translate(17 273)" font-size="7" font-family="AvenirNext-UltraLight, Avenir Next" font-weight="100"><tspan x="0" y="0">+100 Horas/mes</tspan></text>
+        <rect id="Rectángulo_8" data-name="Rectángulo 8" width="61" height="14" rx="7" transform="translate(83 264)" fill="#f0ddc2"/>
+        <text id="_80_Dinero_mes" data-name="+80 Dinero/mes" transform="translate(87 273)" font-size="7" font-family="AvenirNext-UltraLight, Avenir Next" font-weight="100"><tspan x="0" y="0">+80 Dinero/mes</tspan></text>
+        <rect id="Rectángulo_9" data-name="Rectángulo 9" width="47.391" height="13.863" rx="6.932" transform="matrix(1, 0.017, -0.017, 1, 149.539, 263.889)" fill="#f0ddc2"/>
+        <text id="_10_Cultura" data-name="+10 Cultura" transform="translate(154 273)" font-size="7" font-family="AvenirNext-UltraLight, Avenir Next" font-weight="100"><tspan x="0" y="0">+10 Cultura</tspan></text>
+        <rect id="Rectángulo_16" data-name="Rectángulo 16" width="4" height="4" rx="2" transform="translate(61 148)" fill="#f0ddc2"/>
+        <rect id="Rectángulo_13" data-name="Rectángulo 13" width="114.844" height="79.719" rx="20" transform="translate(47.097 80)" fill="none" stroke="#fff" stroke-linejoin="bevel" stroke-width="8"/>
+        <path id="Polígono_3" data-name="Polígono 3" d="M7.978,5.375a12.936,12.936,0,0,1,15.043,0l.229.164a12.936,12.936,0,0,1,4.762,14.582h0A12.936,12.936,0,0,1,15.729,29h-.458A12.936,12.936,0,0,1,2.988,20.121h0A12.936,12.936,0,0,1,7.749,5.539Z" transform="translate(9 4)" fill="#f0ddc2"/>
+        <text id="_2" data-name="2" transform="translate(19 25)" fill="#9e5e03" font-size="18" font-family="AvenirNext-Regular, Avenir Next"><tspan x="0" y="0">2</tspan></text>
+    </g>
+</svg>

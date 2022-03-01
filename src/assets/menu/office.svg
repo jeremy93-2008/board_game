@@ -1,0 +1,1810 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1008.719" height="979.141" viewBox="0 0 1008.719 979.141">
+    <defs>
+        <clipPath id="clip-path">
+            <rect width="836.429" height="535.315" fill="none"/>
+        </clipPath>
+        <filter id="Elipse_1" x="887.051" y="530.613" width="90.357" height="90.357" filterUnits="userSpaceOnUse">
+            <feOffset dy="3" input="SourceAlpha"/>
+            <feGaussianBlur stdDeviation="3" result="blur"/>
+            <feFlood flood-opacity="0.161"/>
+            <feComposite operator="in" in2="blur"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="Elipse_1-2" x="163.196" y="222.104" width="88.379" height="88.379" filterUnits="userSpaceOnUse">
+            <feOffset dy="3" input="SourceAlpha"/>
+            <feGaussianBlur stdDeviation="3" result="blur-2"/>
+            <feFlood flood-opacity="0.161"/>
+            <feComposite operator="in" in2="blur-2"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="Elipse_1-3" x="91.765" y="399.071" width="85.716" height="85.716" filterUnits="userSpaceOnUse">
+            <feOffset dy="3" input="SourceAlpha"/>
+            <feGaussianBlur stdDeviation="3" result="blur-3"/>
+            <feFlood flood-opacity="0.161"/>
+            <feComposite operator="in" in2="blur-3"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="Elipse_1-4" x="579.997" y="838.145" width="83.192" height="83.193" filterUnits="userSpaceOnUse">
+            <feOffset dy="3" input="SourceAlpha"/>
+            <feGaussianBlur stdDeviation="3" result="blur-4"/>
+            <feFlood flood-opacity="0.161"/>
+            <feComposite operator="in" in2="blur-4"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="Elipse_1-5" x="291.021" y="102.026" width="69.289" height="69.289" filterUnits="userSpaceOnUse">
+            <feOffset dy="3" input="SourceAlpha"/>
+            <feGaussianBlur stdDeviation="3" result="blur-5"/>
+            <feFlood flood-opacity="0.161"/>
+            <feComposite operator="in" in2="blur-5"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="Rectángulo_37" x="778.652" y="662.836" width="123.236" height="136.058" filterUnits="userSpaceOnUse">
+            <feOffset dy="3" input="SourceAlpha"/>
+            <feGaussianBlur stdDeviation="3" result="blur-6"/>
+            <feFlood flood-opacity="0.161"/>
+            <feComposite operator="in" in2="blur-6"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="Rectángulo_38" x="46.89" y="255.201" width="124.207" height="136.902" filterUnits="userSpaceOnUse">
+            <feOffset dy="3" input="SourceAlpha"/>
+            <feGaussianBlur stdDeviation="3" result="blur-7"/>
+            <feFlood flood-opacity="0.161"/>
+            <feComposite operator="in" in2="blur-7"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="Rectángulo_39" x="761.407" y="369.852" width="136.902" height="124.207" filterUnits="userSpaceOnUse">
+            <feOffset dy="3" input="SourceAlpha"/>
+            <feGaussianBlur stdDeviation="3" result="blur-8"/>
+            <feFlood flood-opacity="0.161"/>
+            <feComposite operator="in" in2="blur-8"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="Rectángulo_52" x="525.589" y="608.113" width="240.907" height="247.127" filterUnits="userSpaceOnUse">
+            <feOffset dy="3" input="SourceAlpha"/>
+            <feGaussianBlur stdDeviation="3" result="blur-9"/>
+            <feFlood flood-opacity="0.161"/>
+            <feComposite operator="in" in2="blur-9"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="Rectángulo_54" x="440.921" y="91.257" width="136.902" height="124.207" filterUnits="userSpaceOnUse">
+            <feOffset dy="3" input="SourceAlpha"/>
+            <feGaussianBlur stdDeviation="3" result="blur-10"/>
+            <feFlood flood-opacity="0.161"/>
+            <feComposite operator="in" in2="blur-10"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+    </defs>
+    <g id="Plato" transform="translate(188.488 -267.726) rotate(41)">
+        <g id="Madera" transform="translate(320.868 99.868)" clip-path="url(#clip-path)">
+            <g id="Madera-2" data-name="Madera" transform="translate(-317 -97)">
+                <rect id="Madera-3" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-4" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-5" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-6" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-7" data-name="Madera" transform="translate(-283 -97)">
+                <rect id="Madera-8" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-9" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-10" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-11" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-12" data-name="Madera" transform="translate(-249 -97)">
+                <rect id="Madera-13" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-14" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-15" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-16" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-17" data-name="Madera" transform="translate(-215 -97)">
+                <rect id="Madera-18" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-19" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-20" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-21" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-22" data-name="Madera" transform="translate(-181 -97)">
+                <rect id="Madera-23" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-24" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-25" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-26" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-27" data-name="Madera" transform="translate(-147 -97)">
+                <rect id="Madera-28" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-29" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-30" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-31" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-32" data-name="Madera" transform="translate(-113 -97)">
+                <rect id="Madera-33" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-34" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-35" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-36" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-37" data-name="Madera" transform="translate(-79 -97)">
+                <rect id="Madera-38" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-39" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-40" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-41" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-42" data-name="Madera" transform="translate(-45 -97)">
+                <rect id="Madera-43" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-44" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-45" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-46" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-47" data-name="Madera" transform="translate(-11 -97)">
+                <rect id="Madera-48" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-49" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-50" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-51" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-52" data-name="Madera" transform="translate(23 -97)">
+                <rect id="Madera-53" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-54" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-55" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-56" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-57" data-name="Madera" transform="translate(57 -97)">
+                <rect id="Madera-58" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-59" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-60" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-61" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-62" data-name="Madera" transform="translate(91 -97)">
+                <rect id="Madera-63" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-64" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-65" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-66" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-67" data-name="Madera" transform="translate(125 -97)">
+                <rect id="Madera-68" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-69" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-70" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-71" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-72" data-name="Madera" transform="translate(159 -97)">
+                <rect id="Madera-73" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-74" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-75" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-76" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-77" data-name="Madera" transform="translate(193 -97)">
+                <rect id="Madera-78" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-79" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-80" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-81" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-82" data-name="Madera" transform="translate(227 -97)">
+                <rect id="Madera-83" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-84" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-85" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-86" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-87" data-name="Madera" transform="translate(261 -97)">
+                <rect id="Madera-88" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-89" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-90" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-91" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-92" data-name="Madera" transform="translate(295 -97)">
+                <rect id="Madera-93" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-94" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-95" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-96" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-97" data-name="Madera" transform="translate(329 -97)">
+                <rect id="Madera-98" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-99" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-100" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-101" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-102" data-name="Madera" transform="translate(363 -97)">
+                <rect id="Madera-103" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-104" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-105" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-106" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-107" data-name="Madera" transform="translate(397 -97)">
+                <rect id="Madera-108" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-109" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-110" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-111" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-112" data-name="Madera" transform="translate(431 -97)">
+                <rect id="Madera-113" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-114" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-115" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-116" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-117" data-name="Madera" transform="translate(465 -97)">
+                <rect id="Madera-118" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-119" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-120" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-121" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-122" data-name="Madera" transform="translate(499 -97)">
+                <rect id="Madera-123" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-124" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-125" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-126" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-127" data-name="Madera" transform="translate(-317 -47)">
+                <rect id="Madera-128" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-129" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-130" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-131" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-132" data-name="Madera" transform="translate(-283 -47)">
+                <rect id="Madera-133" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-134" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-135" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-136" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-137" data-name="Madera" transform="translate(-249 -47)">
+                <rect id="Madera-138" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-139" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-140" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-141" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-142" data-name="Madera" transform="translate(-215 -47)">
+                <rect id="Madera-143" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-144" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-145" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-146" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-147" data-name="Madera" transform="translate(-181 -47)">
+                <rect id="Madera-148" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-149" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-150" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-151" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-152" data-name="Madera" transform="translate(-147 -47)">
+                <rect id="Madera-153" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-154" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-155" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-156" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-157" data-name="Madera" transform="translate(-113 -47)">
+                <rect id="Madera-158" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-159" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-160" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-161" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-162" data-name="Madera" transform="translate(-79 -47)">
+                <rect id="Madera-163" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-164" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-165" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-166" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-167" data-name="Madera" transform="translate(-45 -47)">
+                <rect id="Madera-168" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-169" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-170" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-171" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-172" data-name="Madera" transform="translate(-11 -47)">
+                <rect id="Madera-173" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-174" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-175" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-176" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-177" data-name="Madera" transform="translate(23 -47)">
+                <rect id="Madera-178" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-179" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-180" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-181" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-182" data-name="Madera" transform="translate(57 -47)">
+                <rect id="Madera-183" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-184" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-185" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-186" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-187" data-name="Madera" transform="translate(91 -47)">
+                <rect id="Madera-188" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-189" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-190" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-191" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-192" data-name="Madera" transform="translate(125 -47)">
+                <rect id="Madera-193" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-194" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-195" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-196" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-197" data-name="Madera" transform="translate(159 -47)">
+                <rect id="Madera-198" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-199" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-200" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-201" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-202" data-name="Madera" transform="translate(193 -47)">
+                <rect id="Madera-203" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-204" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-205" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-206" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-207" data-name="Madera" transform="translate(227 -47)">
+                <rect id="Madera-208" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-209" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-210" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-211" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-212" data-name="Madera" transform="translate(261 -47)">
+                <rect id="Madera-213" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-214" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-215" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-216" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-217" data-name="Madera" transform="translate(295 -47)">
+                <rect id="Madera-218" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-219" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-220" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-221" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-222" data-name="Madera" transform="translate(329 -47)">
+                <rect id="Madera-223" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-224" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-225" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-226" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-227" data-name="Madera" transform="translate(363 -47)">
+                <rect id="Madera-228" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-229" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-230" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-231" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-232" data-name="Madera" transform="translate(397 -47)">
+                <rect id="Madera-233" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-234" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-235" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-236" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-237" data-name="Madera" transform="translate(431 -47)">
+                <rect id="Madera-238" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-239" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-240" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-241" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-242" data-name="Madera" transform="translate(465 -47)">
+                <rect id="Madera-243" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-244" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-245" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-246" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-247" data-name="Madera" transform="translate(499 -47)">
+                <rect id="Madera-248" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-249" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-250" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-251" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-252" data-name="Madera" transform="translate(-317 3)">
+                <rect id="Madera-253" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-254" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-255" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-256" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-257" data-name="Madera" transform="translate(-283 3)">
+                <rect id="Madera-258" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-259" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-260" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-261" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-262" data-name="Madera" transform="translate(-249 3)">
+                <rect id="Madera-263" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-264" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-265" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-266" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-267" data-name="Madera" transform="translate(-215 3)">
+                <rect id="Madera-268" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-269" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-270" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-271" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-272" data-name="Madera" transform="translate(-181 3)">
+                <rect id="Madera-273" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-274" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-275" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-276" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-277" data-name="Madera" transform="translate(-147 3)">
+                <rect id="Madera-278" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-279" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-280" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-281" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-282" data-name="Madera" transform="translate(-113 3)">
+                <rect id="Madera-283" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-284" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-285" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-286" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-287" data-name="Madera" transform="translate(-79 3)">
+                <rect id="Madera-288" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-289" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-290" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-291" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-292" data-name="Madera" transform="translate(-45 3)">
+                <rect id="Madera-293" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-294" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-295" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-296" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-297" data-name="Madera" transform="translate(-11 3)">
+                <rect id="Madera-298" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-299" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-300" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-301" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-302" data-name="Madera" transform="translate(23 3)">
+                <rect id="Madera-303" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-304" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-305" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-306" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-307" data-name="Madera" transform="translate(57 3)">
+                <rect id="Madera-308" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-309" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-310" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-311" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-312" data-name="Madera" transform="translate(91 3)">
+                <rect id="Madera-313" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-314" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-315" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-316" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-317" data-name="Madera" transform="translate(125 3)">
+                <rect id="Madera-318" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-319" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-320" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-321" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-322" data-name="Madera" transform="translate(159 3)">
+                <rect id="Madera-323" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-324" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-325" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-326" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-327" data-name="Madera" transform="translate(193 3)">
+                <rect id="Madera-328" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-329" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-330" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-331" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-332" data-name="Madera" transform="translate(227 3)">
+                <rect id="Madera-333" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-334" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-335" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-336" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-337" data-name="Madera" transform="translate(261 3)">
+                <rect id="Madera-338" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-339" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-340" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-341" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-342" data-name="Madera" transform="translate(295 3)">
+                <rect id="Madera-343" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-344" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-345" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-346" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-347" data-name="Madera" transform="translate(329 3)">
+                <rect id="Madera-348" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-349" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-350" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-351" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-352" data-name="Madera" transform="translate(363 3)">
+                <rect id="Madera-353" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-354" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-355" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-356" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-357" data-name="Madera" transform="translate(397 3)">
+                <rect id="Madera-358" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-359" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-360" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-361" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-362" data-name="Madera" transform="translate(431 3)">
+                <rect id="Madera-363" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-364" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-365" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-366" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-367" data-name="Madera" transform="translate(465 3)">
+                <rect id="Madera-368" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-369" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-370" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-371" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-372" data-name="Madera" transform="translate(499 3)">
+                <rect id="Madera-373" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-374" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-375" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-376" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-377" data-name="Madera" transform="translate(-317 53)">
+                <rect id="Madera-378" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-379" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-380" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-381" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-382" data-name="Madera" transform="translate(-283 53)">
+                <rect id="Madera-383" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-384" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-385" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-386" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-387" data-name="Madera" transform="translate(-249 53)">
+                <rect id="Madera-388" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-389" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-390" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-391" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-392" data-name="Madera" transform="translate(-215 53)">
+                <rect id="Madera-393" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-394" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-395" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-396" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-397" data-name="Madera" transform="translate(-181 53)">
+                <rect id="Madera-398" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-399" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-400" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-401" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-402" data-name="Madera" transform="translate(-147 53)">
+                <rect id="Madera-403" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-404" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-405" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-406" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-407" data-name="Madera" transform="translate(-113 53)">
+                <rect id="Madera-408" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-409" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-410" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-411" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-412" data-name="Madera" transform="translate(-79 53)">
+                <rect id="Madera-413" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-414" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-415" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-416" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-417" data-name="Madera" transform="translate(-45 53)">
+                <rect id="Madera-418" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-419" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-420" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-421" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-422" data-name="Madera" transform="translate(-11 53)">
+                <rect id="Madera-423" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-424" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-425" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-426" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-427" data-name="Madera" transform="translate(23 53)">
+                <rect id="Madera-428" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-429" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-430" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-431" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-432" data-name="Madera" transform="translate(57 53)">
+                <rect id="Madera-433" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-434" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-435" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-436" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-437" data-name="Madera" transform="translate(91 53)">
+                <rect id="Madera-438" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-439" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-440" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-441" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-442" data-name="Madera" transform="translate(125 53)">
+                <rect id="Madera-443" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-444" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-445" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-446" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-447" data-name="Madera" transform="translate(159 53)">
+                <rect id="Madera-448" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-449" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-450" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-451" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-452" data-name="Madera" transform="translate(193 53)">
+                <rect id="Madera-453" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-454" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-455" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-456" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-457" data-name="Madera" transform="translate(227 53)">
+                <rect id="Madera-458" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-459" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-460" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-461" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-462" data-name="Madera" transform="translate(261 53)">
+                <rect id="Madera-463" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-464" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-465" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-466" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-467" data-name="Madera" transform="translate(295 53)">
+                <rect id="Madera-468" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-469" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-470" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-471" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-472" data-name="Madera" transform="translate(329 53)">
+                <rect id="Madera-473" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-474" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-475" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-476" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-477" data-name="Madera" transform="translate(363 53)">
+                <rect id="Madera-478" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-479" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-480" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-481" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-482" data-name="Madera" transform="translate(397 53)">
+                <rect id="Madera-483" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-484" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-485" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-486" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-487" data-name="Madera" transform="translate(431 53)">
+                <rect id="Madera-488" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-489" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-490" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-491" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-492" data-name="Madera" transform="translate(465 53)">
+                <rect id="Madera-493" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-494" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-495" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-496" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-497" data-name="Madera" transform="translate(499 53)">
+                <rect id="Madera-498" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-499" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-500" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-501" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-502" data-name="Madera" transform="translate(-317 103)">
+                <rect id="Madera-503" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-504" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-505" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-506" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-507" data-name="Madera" transform="translate(-283 103)">
+                <rect id="Madera-508" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-509" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-510" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-511" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-512" data-name="Madera" transform="translate(-249 103)">
+                <rect id="Madera-513" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-514" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-515" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-516" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-517" data-name="Madera" transform="translate(-215 103)">
+                <rect id="Madera-518" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-519" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-520" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-521" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-522" data-name="Madera" transform="translate(-181 103)">
+                <rect id="Madera-523" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-524" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-525" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-526" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-527" data-name="Madera" transform="translate(-147 103)">
+                <rect id="Madera-528" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-529" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-530" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-531" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-532" data-name="Madera" transform="translate(-113 103)">
+                <rect id="Madera-533" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-534" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-535" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-536" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-537" data-name="Madera" transform="translate(-79 103)">
+                <rect id="Madera-538" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-539" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-540" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-541" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-542" data-name="Madera" transform="translate(-45 103)">
+                <rect id="Madera-543" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-544" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-545" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-546" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-547" data-name="Madera" transform="translate(-11 103)">
+                <rect id="Madera-548" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-549" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-550" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-551" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-552" data-name="Madera" transform="translate(23 103)">
+                <rect id="Madera-553" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-554" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-555" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-556" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-557" data-name="Madera" transform="translate(57 103)">
+                <rect id="Madera-558" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-559" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-560" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-561" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-562" data-name="Madera" transform="translate(91 103)">
+                <rect id="Madera-563" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-564" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-565" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-566" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-567" data-name="Madera" transform="translate(125 103)">
+                <rect id="Madera-568" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-569" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-570" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-571" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-572" data-name="Madera" transform="translate(159 103)">
+                <rect id="Madera-573" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-574" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-575" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-576" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-577" data-name="Madera" transform="translate(193 103)">
+                <rect id="Madera-578" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-579" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-580" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-581" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-582" data-name="Madera" transform="translate(227 103)">
+                <rect id="Madera-583" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-584" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-585" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-586" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-587" data-name="Madera" transform="translate(261 103)">
+                <rect id="Madera-588" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-589" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-590" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-591" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-592" data-name="Madera" transform="translate(295 103)">
+                <rect id="Madera-593" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-594" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-595" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-596" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-597" data-name="Madera" transform="translate(329 103)">
+                <rect id="Madera-598" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-599" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-600" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-601" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-602" data-name="Madera" transform="translate(363 103)">
+                <rect id="Madera-603" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-604" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-605" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-606" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-607" data-name="Madera" transform="translate(397 103)">
+                <rect id="Madera-608" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-609" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-610" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-611" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-612" data-name="Madera" transform="translate(431 103)">
+                <rect id="Madera-613" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-614" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-615" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-616" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-617" data-name="Madera" transform="translate(465 103)">
+                <rect id="Madera-618" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-619" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-620" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-621" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-622" data-name="Madera" transform="translate(499 103)">
+                <rect id="Madera-623" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-624" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-625" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-626" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-627" data-name="Madera" transform="translate(-317 153)">
+                <rect id="Madera-628" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-629" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-630" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-631" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-632" data-name="Madera" transform="translate(-283 153)">
+                <rect id="Madera-633" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-634" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-635" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-636" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-637" data-name="Madera" transform="translate(-249 153)">
+                <rect id="Madera-638" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-639" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-640" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-641" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-642" data-name="Madera" transform="translate(-215 153)">
+                <rect id="Madera-643" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-644" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-645" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-646" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-647" data-name="Madera" transform="translate(-181 153)">
+                <rect id="Madera-648" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-649" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-650" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-651" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-652" data-name="Madera" transform="translate(-147 153)">
+                <rect id="Madera-653" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-654" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-655" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-656" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-657" data-name="Madera" transform="translate(-113 153)">
+                <rect id="Madera-658" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-659" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-660" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-661" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-662" data-name="Madera" transform="translate(-79 153)">
+                <rect id="Madera-663" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-664" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-665" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-666" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-667" data-name="Madera" transform="translate(-45 153)">
+                <rect id="Madera-668" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-669" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-670" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-671" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-672" data-name="Madera" transform="translate(-11 153)">
+                <rect id="Madera-673" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-674" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-675" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-676" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-677" data-name="Madera" transform="translate(23 153)">
+                <rect id="Madera-678" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-679" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-680" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-681" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-682" data-name="Madera" transform="translate(57 153)">
+                <rect id="Madera-683" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-684" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-685" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-686" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-687" data-name="Madera" transform="translate(91 153)">
+                <rect id="Madera-688" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-689" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-690" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-691" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-692" data-name="Madera" transform="translate(125 153)">
+                <rect id="Madera-693" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-694" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-695" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-696" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-697" data-name="Madera" transform="translate(159 153)">
+                <rect id="Madera-698" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-699" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-700" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-701" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-702" data-name="Madera" transform="translate(193 153)">
+                <rect id="Madera-703" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-704" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-705" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-706" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-707" data-name="Madera" transform="translate(227 153)">
+                <rect id="Madera-708" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-709" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-710" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-711" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-712" data-name="Madera" transform="translate(261 153)">
+                <rect id="Madera-713" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-714" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-715" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-716" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-717" data-name="Madera" transform="translate(295 153)">
+                <rect id="Madera-718" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-719" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-720" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-721" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-722" data-name="Madera" transform="translate(329 153)">
+                <rect id="Madera-723" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-724" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-725" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-726" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-727" data-name="Madera" transform="translate(363 153)">
+                <rect id="Madera-728" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-729" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-730" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-731" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-732" data-name="Madera" transform="translate(397 153)">
+                <rect id="Madera-733" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-734" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-735" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-736" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-737" data-name="Madera" transform="translate(431 153)">
+                <rect id="Madera-738" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-739" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-740" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-741" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-742" data-name="Madera" transform="translate(465 153)">
+                <rect id="Madera-743" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-744" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-745" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-746" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-747" data-name="Madera" transform="translate(499 153)">
+                <rect id="Madera-748" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-749" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-750" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-751" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-752" data-name="Madera" transform="translate(-317 203)">
+                <rect id="Madera-753" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-754" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-755" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-756" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-757" data-name="Madera" transform="translate(-283 203)">
+                <rect id="Madera-758" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-759" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-760" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-761" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-762" data-name="Madera" transform="translate(-249 203)">
+                <rect id="Madera-763" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-764" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-765" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-766" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-767" data-name="Madera" transform="translate(-215 203)">
+                <rect id="Madera-768" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-769" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-770" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-771" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-772" data-name="Madera" transform="translate(-181 203)">
+                <rect id="Madera-773" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-774" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-775" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-776" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-777" data-name="Madera" transform="translate(-147 203)">
+                <rect id="Madera-778" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-779" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-780" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-781" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-782" data-name="Madera" transform="translate(-113 203)">
+                <rect id="Madera-783" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-784" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-785" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-786" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-787" data-name="Madera" transform="translate(-79 203)">
+                <rect id="Madera-788" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-789" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-790" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-791" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-792" data-name="Madera" transform="translate(-45 203)">
+                <rect id="Madera-793" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-794" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-795" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-796" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-797" data-name="Madera" transform="translate(-11 203)">
+                <rect id="Madera-798" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-799" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-800" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-801" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-802" data-name="Madera" transform="translate(23 203)">
+                <rect id="Madera-803" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-804" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-805" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-806" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-807" data-name="Madera" transform="translate(57 203)">
+                <rect id="Madera-808" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-809" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-810" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-811" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-812" data-name="Madera" transform="translate(91 203)">
+                <rect id="Madera-813" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-814" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-815" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-816" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-817" data-name="Madera" transform="translate(125 203)">
+                <rect id="Madera-818" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-819" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-820" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-821" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-822" data-name="Madera" transform="translate(159 203)">
+                <rect id="Madera-823" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-824" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-825" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-826" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-827" data-name="Madera" transform="translate(193 203)">
+                <rect id="Madera-828" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-829" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-830" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-831" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-832" data-name="Madera" transform="translate(227 203)">
+                <rect id="Madera-833" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-834" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-835" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-836" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-837" data-name="Madera" transform="translate(261 203)">
+                <rect id="Madera-838" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-839" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-840" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-841" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-842" data-name="Madera" transform="translate(295 203)">
+                <rect id="Madera-843" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-844" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-845" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-846" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-847" data-name="Madera" transform="translate(329 203)">
+                <rect id="Madera-848" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-849" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-850" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-851" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-852" data-name="Madera" transform="translate(363 203)">
+                <rect id="Madera-853" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-854" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-855" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-856" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-857" data-name="Madera" transform="translate(397 203)">
+                <rect id="Madera-858" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-859" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-860" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-861" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-862" data-name="Madera" transform="translate(431 203)">
+                <rect id="Madera-863" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-864" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-865" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-866" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-867" data-name="Madera" transform="translate(465 203)">
+                <rect id="Madera-868" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-869" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-870" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-871" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-872" data-name="Madera" transform="translate(499 203)">
+                <rect id="Madera-873" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-874" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-875" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-876" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-877" data-name="Madera" transform="translate(-317 253)">
+                <rect id="Madera-878" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-879" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-880" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-881" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-882" data-name="Madera" transform="translate(-283 253)">
+                <rect id="Madera-883" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-884" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-885" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-886" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-887" data-name="Madera" transform="translate(-249 253)">
+                <rect id="Madera-888" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-889" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-890" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-891" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-892" data-name="Madera" transform="translate(-215 253)">
+                <rect id="Madera-893" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-894" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-895" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-896" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-897" data-name="Madera" transform="translate(-181 253)">
+                <rect id="Madera-898" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-899" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-900" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-901" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-902" data-name="Madera" transform="translate(-147 253)">
+                <rect id="Madera-903" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-904" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-905" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-906" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-907" data-name="Madera" transform="translate(-113 253)">
+                <rect id="Madera-908" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-909" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-910" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-911" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-912" data-name="Madera" transform="translate(-79 253)">
+                <rect id="Madera-913" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-914" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-915" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-916" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-917" data-name="Madera" transform="translate(-45 253)">
+                <rect id="Madera-918" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-919" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-920" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-921" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-922" data-name="Madera" transform="translate(-11 253)">
+                <rect id="Madera-923" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-924" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-925" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-926" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-927" data-name="Madera" transform="translate(23 253)">
+                <rect id="Madera-928" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-929" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-930" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-931" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-932" data-name="Madera" transform="translate(57 253)">
+                <rect id="Madera-933" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-934" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-935" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-936" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-937" data-name="Madera" transform="translate(91 253)">
+                <rect id="Madera-938" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-939" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-940" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-941" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-942" data-name="Madera" transform="translate(125 253)">
+                <rect id="Madera-943" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-944" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-945" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-946" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-947" data-name="Madera" transform="translate(159 253)">
+                <rect id="Madera-948" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-949" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-950" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-951" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-952" data-name="Madera" transform="translate(193 253)">
+                <rect id="Madera-953" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-954" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-955" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-956" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-957" data-name="Madera" transform="translate(227 253)">
+                <rect id="Madera-958" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-959" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-960" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-961" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-962" data-name="Madera" transform="translate(261 253)">
+                <rect id="Madera-963" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-964" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-965" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-966" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-967" data-name="Madera" transform="translate(295 253)">
+                <rect id="Madera-968" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-969" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-970" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-971" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-972" data-name="Madera" transform="translate(329 253)">
+                <rect id="Madera-973" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-974" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-975" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-976" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-977" data-name="Madera" transform="translate(363 253)">
+                <rect id="Madera-978" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-979" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-980" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-981" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-982" data-name="Madera" transform="translate(397 253)">
+                <rect id="Madera-983" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-984" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-985" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-986" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-987" data-name="Madera" transform="translate(431 253)">
+                <rect id="Madera-988" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-989" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-990" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-991" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-992" data-name="Madera" transform="translate(465 253)">
+                <rect id="Madera-993" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-994" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-995" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-996" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-997" data-name="Madera" transform="translate(499 253)">
+                <rect id="Madera-998" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-999" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-1000" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-1001" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-1002" data-name="Madera" transform="translate(-317 303)">
+                <rect id="Madera-1003" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-1004" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-1005" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-1006" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-1007" data-name="Madera" transform="translate(-283 303)">
+                <rect id="Madera-1008" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-1009" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-1010" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-1011" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-1012" data-name="Madera" transform="translate(-249 303)">
+                <rect id="Madera-1013" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-1014" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-1015" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-1016" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-1017" data-name="Madera" transform="translate(-215 303)">
+                <rect id="Madera-1018" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-1019" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-1020" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-1021" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-1022" data-name="Madera" transform="translate(-181 303)">
+                <rect id="Madera-1023" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-1024" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-1025" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-1026" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-1027" data-name="Madera" transform="translate(-147 303)">
+                <rect id="Madera-1028" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-1029" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-1030" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-1031" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-1032" data-name="Madera" transform="translate(-113 303)">
+                <rect id="Madera-1033" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-1034" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-1035" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-1036" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-1037" data-name="Madera" transform="translate(-79 303)">
+                <rect id="Madera-1038" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-1039" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-1040" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-1041" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-1042" data-name="Madera" transform="translate(-45 303)">
+                <rect id="Madera-1043" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-1044" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-1045" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-1046" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-1047" data-name="Madera" transform="translate(-11 303)">
+                <rect id="Madera-1048" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-1049" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-1050" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-1051" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-1052" data-name="Madera" transform="translate(23 303)">
+                <rect id="Madera-1053" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-1054" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-1055" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-1056" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-1057" data-name="Madera" transform="translate(57 303)">
+                <rect id="Madera-1058" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-1059" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-1060" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-1061" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-1062" data-name="Madera" transform="translate(91 303)">
+                <rect id="Madera-1063" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-1064" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-1065" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-1066" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-1067" data-name="Madera" transform="translate(125 303)">
+                <rect id="Madera-1068" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-1069" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-1070" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-1071" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-1072" data-name="Madera" transform="translate(159 303)">
+                <rect id="Madera-1073" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-1074" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-1075" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-1076" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-1077" data-name="Madera" transform="translate(193 303)">
+                <rect id="Madera-1078" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-1079" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-1080" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-1081" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-1082" data-name="Madera" transform="translate(227 303)">
+                <rect id="Madera-1083" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-1084" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-1085" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-1086" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-1087" data-name="Madera" transform="translate(261 303)">
+                <rect id="Madera-1088" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-1089" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-1090" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-1091" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-1092" data-name="Madera" transform="translate(295 303)">
+                <rect id="Madera-1093" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-1094" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-1095" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-1096" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-1097" data-name="Madera" transform="translate(329 303)">
+                <rect id="Madera-1098" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-1099" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-1100" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-1101" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-1102" data-name="Madera" transform="translate(363 303)">
+                <rect id="Madera-1103" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-1104" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-1105" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-1106" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-1107" data-name="Madera" transform="translate(397 303)">
+                <rect id="Madera-1108" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-1109" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-1110" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-1111" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-1112" data-name="Madera" transform="translate(431 303)">
+                <rect id="Madera-1113" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-1114" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-1115" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-1116" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-1117" data-name="Madera" transform="translate(465 303)">
+                <rect id="Madera-1118" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-1119" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-1120" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-1121" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-1122" data-name="Madera" transform="translate(499 303)">
+                <rect id="Madera-1123" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-1124" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-1125" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-1126" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-1127" data-name="Madera" transform="translate(-317 353)">
+                <rect id="Madera-1128" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-1129" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-1130" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-1131" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-1132" data-name="Madera" transform="translate(-283 353)">
+                <rect id="Madera-1133" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-1134" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-1135" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-1136" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-1137" data-name="Madera" transform="translate(-249 353)">
+                <rect id="Madera-1138" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-1139" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-1140" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-1141" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-1142" data-name="Madera" transform="translate(-215 353)">
+                <rect id="Madera-1143" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-1144" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-1145" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-1146" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-1147" data-name="Madera" transform="translate(-181 353)">
+                <rect id="Madera-1148" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-1149" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-1150" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-1151" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-1152" data-name="Madera" transform="translate(-147 353)">
+                <rect id="Madera-1153" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-1154" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-1155" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-1156" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-1157" data-name="Madera" transform="translate(-113 353)">
+                <rect id="Madera-1158" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-1159" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-1160" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-1161" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-1162" data-name="Madera" transform="translate(-79 353)">
+                <rect id="Madera-1163" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-1164" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-1165" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-1166" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-1167" data-name="Madera" transform="translate(-45 353)">
+                <rect id="Madera-1168" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-1169" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-1170" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-1171" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-1172" data-name="Madera" transform="translate(-11 353)">
+                <rect id="Madera-1173" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-1174" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-1175" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-1176" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-1177" data-name="Madera" transform="translate(23 353)">
+                <rect id="Madera-1178" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-1179" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-1180" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-1181" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-1182" data-name="Madera" transform="translate(57 353)">
+                <rect id="Madera-1183" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-1184" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-1185" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-1186" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-1187" data-name="Madera" transform="translate(91 353)">
+                <rect id="Madera-1188" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-1189" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-1190" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-1191" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-1192" data-name="Madera" transform="translate(125 353)">
+                <rect id="Madera-1193" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-1194" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-1195" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-1196" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-1197" data-name="Madera" transform="translate(159 353)">
+                <rect id="Madera-1198" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-1199" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-1200" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-1201" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-1202" data-name="Madera" transform="translate(193 353)">
+                <rect id="Madera-1203" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-1204" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-1205" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-1206" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-1207" data-name="Madera" transform="translate(227 353)">
+                <rect id="Madera-1208" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-1209" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-1210" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-1211" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-1212" data-name="Madera" transform="translate(261 353)">
+                <rect id="Madera-1213" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-1214" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-1215" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-1216" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-1217" data-name="Madera" transform="translate(295 353)">
+                <rect id="Madera-1218" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-1219" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-1220" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-1221" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-1222" data-name="Madera" transform="translate(329 353)">
+                <rect id="Madera-1223" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-1224" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-1225" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-1226" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-1227" data-name="Madera" transform="translate(363 353)">
+                <rect id="Madera-1228" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-1229" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-1230" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-1231" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-1232" data-name="Madera" transform="translate(397 353)">
+                <rect id="Madera-1233" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-1234" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-1235" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-1236" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-1237" data-name="Madera" transform="translate(431 353)">
+                <rect id="Madera-1238" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-1239" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-1240" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-1241" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-1242" data-name="Madera" transform="translate(465 353)">
+                <rect id="Madera-1243" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-1244" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-1245" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-1246" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-1247" data-name="Madera" transform="translate(499 353)">
+                <rect id="Madera-1248" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-1249" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-1250" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-1251" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-1252" data-name="Madera" transform="translate(-317 403)">
+                <rect id="Madera-1253" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-1254" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-1255" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-1256" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-1257" data-name="Madera" transform="translate(-283 403)">
+                <rect id="Madera-1258" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-1259" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-1260" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-1261" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-1262" data-name="Madera" transform="translate(-249 403)">
+                <rect id="Madera-1263" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-1264" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-1265" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-1266" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-1267" data-name="Madera" transform="translate(-215 403)">
+                <rect id="Madera-1268" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-1269" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-1270" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-1271" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-1272" data-name="Madera" transform="translate(-181 403)">
+                <rect id="Madera-1273" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-1274" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-1275" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-1276" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-1277" data-name="Madera" transform="translate(-147 403)">
+                <rect id="Madera-1278" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-1279" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-1280" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-1281" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-1282" data-name="Madera" transform="translate(-113 403)">
+                <rect id="Madera-1283" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-1284" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-1285" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-1286" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-1287" data-name="Madera" transform="translate(-79 403)">
+                <rect id="Madera-1288" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-1289" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-1290" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-1291" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-1292" data-name="Madera" transform="translate(-45 403)">
+                <rect id="Madera-1293" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-1294" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-1295" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-1296" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-1297" data-name="Madera" transform="translate(-11 403)">
+                <rect id="Madera-1298" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-1299" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-1300" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-1301" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-1302" data-name="Madera" transform="translate(23 403)">
+                <rect id="Madera-1303" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-1304" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-1305" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-1306" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-1307" data-name="Madera" transform="translate(57 403)">
+                <rect id="Madera-1308" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-1309" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-1310" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-1311" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-1312" data-name="Madera" transform="translate(91 403)">
+                <rect id="Madera-1313" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-1314" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-1315" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-1316" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-1317" data-name="Madera" transform="translate(125 403)">
+                <rect id="Madera-1318" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-1319" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-1320" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-1321" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-1322" data-name="Madera" transform="translate(159 403)">
+                <rect id="Madera-1323" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-1324" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-1325" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-1326" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-1327" data-name="Madera" transform="translate(193 403)">
+                <rect id="Madera-1328" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-1329" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-1330" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-1331" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-1332" data-name="Madera" transform="translate(227 403)">
+                <rect id="Madera-1333" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-1334" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-1335" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-1336" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-1337" data-name="Madera" transform="translate(261 403)">
+                <rect id="Madera-1338" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-1339" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-1340" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-1341" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-1342" data-name="Madera" transform="translate(295 403)">
+                <rect id="Madera-1343" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-1344" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-1345" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-1346" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-1347" data-name="Madera" transform="translate(329 403)">
+                <rect id="Madera-1348" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-1349" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-1350" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-1351" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-1352" data-name="Madera" transform="translate(363 403)">
+                <rect id="Madera-1353" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-1354" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-1355" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-1356" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-1357" data-name="Madera" transform="translate(397 403)">
+                <rect id="Madera-1358" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-1359" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-1360" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-1361" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-1362" data-name="Madera" transform="translate(431 403)">
+                <rect id="Madera-1363" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-1364" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-1365" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-1366" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-1367" data-name="Madera" transform="translate(465 403)">
+                <rect id="Madera-1368" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-1369" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-1370" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-1371" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+            <g id="Madera-1372" data-name="Madera" transform="translate(499 403)">
+                <rect id="Madera-1373" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+                <rect id="Madera-1374" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+                <rect id="Madera-1375" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+                <rect id="Madera-1376" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+            </g>
+        </g>
+        <g id="Planta" transform="translate(1087.093 116.633)">
+            <g transform="matrix(0.75, -0.66, 0.66, 0.75, -1053.7, 209.08)" filter="url(#Elipse_1)">
+                <g id="Elipse_1-6" data-name="Elipse 1" transform="translate(929.7 536.61) rotate(41)" fill="#573f00" stroke="#8d6926" stroke-width="3">
+                    <circle cx="25.644" cy="25.644" r="25.644" stroke="none"/>
+                    <circle cx="25.644" cy="25.644" r="24.144" fill="none"/>
+                </g>
+            </g>
+            <ellipse id="Elipse_3" data-name="Elipse 3" cx="17.271" cy="5.757" rx="17.271" ry="5.757" transform="translate(19.887 24.018)" fill="#078102"/>
+            <circle id="Elipse_2" data-name="Elipse 2" cx="5.757" cy="5.757" r="5.757" transform="translate(19.887 24.018)" fill="#078102"/>
+            <ellipse id="Elipse_4" data-name="Elipse 4" cx="17.169" cy="5.723" rx="17.169" ry="5.723" transform="matrix(0.469, -0.883, 0.883, 0.469, 18.215, 30.319)" fill="#078102"/>
+        </g>
+        <g id="Planta-2" data-name="Planta" transform="matrix(-0.174, -0.985, 0.985, -0.174, 337.772, 418.792)">
+            <g transform="matrix(0.52, 0.86, -0.86, 0.52, 144.52, -283.59)" filter="url(#Elipse_1-2)">
+                <g id="Elipse_1-7" data-name="Elipse 1" transform="translate(172.2 272.07) rotate(-59)" fill="#573f00" stroke="#8d6926" stroke-width="3">
+                    <circle cx="25.644" cy="25.644" r="25.644" stroke="none"/>
+                    <circle cx="25.644" cy="25.644" r="24.144" fill="none"/>
+                </g>
+            </g>
+            <ellipse id="Elipse_3-2" data-name="Elipse 3" cx="17.271" cy="5.757" rx="17.271" ry="5.757" transform="translate(19.887 24.018)" fill="#078102"/>
+            <circle id="Elipse_2-2" data-name="Elipse 2" cx="5.757" cy="5.757" r="5.757" transform="translate(19.887 24.018)" fill="#078102"/>
+            <ellipse id="Elipse_4-2" data-name="Elipse 4" cx="17.169" cy="5.723" rx="17.169" ry="5.723" transform="matrix(0.469, -0.883, 0.883, 0.469, 18.215, 30.319)" fill="#078102"/>
+        </g>
+        <g id="Planta-3" data-name="Planta" transform="translate(443.931 535.428) rotate(73)">
+            <g transform="matrix(-0.41, -0.91, 0.91, -0.41, -320.58, 331.29)" filter="url(#Elipse_1-3)">
+                <g id="Elipse_1-8" data-name="Elipse 1" transform="matrix(-0.41, 0.91, -0.91, -0.41, 168.48, 425.93)" fill="#573f00" stroke="#8d6926" stroke-width="3">
+                    <circle cx="25.644" cy="25.644" r="25.644" stroke="none"/>
+                    <circle cx="25.644" cy="25.644" r="24.144" fill="none"/>
+                </g>
+            </g>
+            <ellipse id="Elipse_3-3" data-name="Elipse 3" cx="17.271" cy="5.757" rx="17.271" ry="5.757" transform="translate(19.887 24.018)" fill="#078102"/>
+            <circle id="Elipse_2-3" data-name="Elipse 2" cx="5.757" cy="5.757" r="5.757" transform="translate(19.887 24.018)" fill="#078102"/>
+            <ellipse id="Elipse_4-3" data-name="Elipse 4" cx="17.169" cy="5.723" rx="17.169" ry="5.723" transform="matrix(0.469, -0.883, 0.883, 0.469, 18.215, 30.319)" fill="#078102"/>
+        </g>
+        <g id="Planta-4" data-name="Planta" transform="translate(1039.098 586.919) rotate(-60)">
+            <g transform="matrix(0.95, 0.33, -0.33, 0.95, -276.64, -1001.57)" filter="url(#Elipse_1-4)">
+                <g id="Elipse_1-9" data-name="Elipse 1" transform="translate(589 860.84) rotate(-19)" fill="#573f00" stroke="#8d6926" stroke-width="3">
+                    <circle cx="25.644" cy="25.644" r="25.644" stroke="none"/>
+                    <circle cx="25.644" cy="25.644" r="24.144" fill="none"/>
+                </g>
+            </g>
+            <ellipse id="Elipse_3-4" data-name="Elipse 3" cx="17.271" cy="5.757" rx="17.271" ry="5.757" transform="translate(19.887 24.018)" fill="#078102"/>
+            <circle id="Elipse_2-4" data-name="Elipse 2" cx="5.757" cy="5.757" r="5.757" transform="translate(19.887 24.018)" fill="#078102"/>
+            <ellipse id="Elipse_4-4" data-name="Elipse 4" cx="17.169" cy="5.723" rx="17.169" ry="5.723" transform="matrix(0.469, -0.883, 0.883, 0.469, 18.215, 30.319)" fill="#078102"/>
+        </g>
+        <g id="Planta-5" data-name="Planta" transform="matrix(-0.755, 0.656, -0.656, -0.755, 405.757, 218.589)">
+            <g transform="matrix(-1, 0, 0, -1, 351.31, 163.45)" filter="url(#Elipse_1-5)">
+                <g id="Elipse_1-10" data-name="Elipse 1" transform="matrix(-1, 0, 0, -1, 351.31, 159.32)" fill="#573f00" stroke="#8d6926" stroke-width="3">
+                    <circle cx="25.644" cy="25.644" r="25.644" stroke="none"/>
+                    <circle cx="25.644" cy="25.644" r="24.144" fill="none"/>
+                </g>
+            </g>
+            <ellipse id="Elipse_3-5" data-name="Elipse 3" cx="17.271" cy="5.757" rx="17.271" ry="5.757" transform="translate(19.887 24.018)" fill="#078102"/>
+            <circle id="Elipse_2-5" data-name="Elipse 2" cx="5.757" cy="5.757" r="5.757" transform="translate(19.887 24.018)" fill="#078102"/>
+            <ellipse id="Elipse_4-5" data-name="Elipse 4" cx="17.169" cy="5.723" rx="17.169" ry="5.723" transform="matrix(0.469, -0.883, 0.883, 0.469, 18.215, 30.319)" fill="#078102"/>
+        </g>
+        <g transform="matrix(0.75, -0.66, 0.66, 0.75, 33.39, 325.71)" filter="url(#Rectángulo_37)">
+            <rect id="Rectángulo_37-2" data-name="Rectángulo 37" width="14.155" height="144.123" transform="translate(882.21 668.84) rotate(41)" fill="#61c2bf"/>
+        </g>
+        <g transform="matrix(0.75, -0.66, 0.66, 0.75, 33.39, 325.71)" filter="url(#Rectángulo_38)">
+            <rect id="Rectángulo_38-2" data-name="Rectángulo 38" width="15.442" height="144.123" transform="translate(150.44 261.2) rotate(41)" fill="#61c2bf"/>
+        </g>
+        <g transform="matrix(0.75, -0.66, 0.66, 0.75, 33.39, 325.71)" filter="url(#Rectángulo_39)">
+            <rect id="Rectángulo_39-2" data-name="Rectángulo 39" width="15.442" height="144.123" transform="translate(770.41 387.51) rotate(-49)" fill="#61c2bf"/>
+        </g>
+        <rect id="Rectángulo_48" data-name="Rectángulo 48" width="12.868" height="308.835" transform="translate(722.354 97.295)" fill="#03799d"/>
+        <rect id="Rectángulo_49" data-name="Rectángulo 49" width="12.868" height="131.255" transform="translate(722.354 503.928)" fill="#03799d"/>
+        <g transform="matrix(0.75, -0.66, 0.66, 0.75, 33.39, 325.71)" filter="url(#Rectángulo_52)">
+            <g id="Rectángulo_52-2" data-name="Rectángulo 52" transform="translate(660.38 614.11) rotate(41)" fill="#e0e0e0" stroke="#454545" stroke-width="5">
+                <rect width="128.681" height="191.735" rx="10" stroke="none"/>
+                <rect x="2.5" y="2.5" width="123.681" height="186.735" rx="7.5" fill="none"/>
+            </g>
+        </g>
+        <g transform="matrix(0.75, -0.66, 0.66, 0.75, 33.39, 325.71)" filter="url(#Rectángulo_54)">
+            <rect id="Rectángulo_54-2" data-name="Rectángulo 54" width="15.442" height="144.123" transform="translate(449.92 108.91) rotate(-49)" fill="#61c2bf"/>
+        </g>
+        <g id="Rectángulo_27" data-name="Rectángulo 27" transform="translate(308 87)" fill="none" stroke="#65635f" stroke-width="10">
+            <rect width="854.445" height="554.617" rx="20" stroke="none"/>
+            <rect x="5" y="5" width="844.445" height="544.617" rx="15" fill="none"/>
+        </g>
+    </g>
+</svg>

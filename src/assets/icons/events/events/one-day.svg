@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="199" height="186" viewBox="0 0 199 186">
+    <defs>
+        <filter id="Rectángulo_91" x="0" y="11" width="199" height="175" filterUnits="userSpaceOnUse">
+            <feOffset dy="3" input="SourceAlpha"/>
+            <feGaussianBlur stdDeviation="3" result="blur"/>
+            <feFlood flood-opacity="0.161"/>
+            <feComposite operator="in" in2="blur"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+    </defs>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectángulo_91)">
+        <g id="Rectángulo_91-2" data-name="Rectángulo 91" transform="translate(9 17)" fill="#ddf0c2" stroke="#5e9e03" stroke-width="8">
+            <rect width="181" height="157" rx="20" stroke="none"/>
+            <rect x="4" y="4" width="173" height="149" rx="16" fill="none"/>
+        </g>
+    </g>
+    <rect id="Rectángulo_92" data-name="Rectángulo 92" width="29" height="33" rx="14.5" transform="translate(41)" fill="#5e9e03"/>
+    <rect id="Rectángulo_93" data-name="Rectángulo 93" width="28" height="37" rx="14" transform="translate(129)" fill="#5e9e03"/>
+    <path id="Rectángulo_94" data-name="Rectángulo 94" d="M6,0H173a0,0,0,0,1,0,0V36a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V6A6,6,0,0,1,6,0Z" transform="translate(12 24)" fill="#5e9e03"/>
+    <path id="Polígono_11" data-name="Polígono 11" d="M36.5,0,47.45,23.164,73,26.356,54.217,43.864,59.058,69,36.5,56.657,13.942,69l4.841-25.136L0,26.356l25.55-3.192Z" transform="translate(63 74)" fill="#5e9e03"/>
+</svg>

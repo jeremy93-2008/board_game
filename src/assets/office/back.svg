@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="535" height="416" viewBox="0 0 535 416">
+    <defs>
+        <clipPath id="clip-path">
+            <rect width="535" height="416" fill="none"/>
+        </clipPath>
+    </defs>
+    <g id="Madera" clip-path="url(#clip-path)">
+        <g id="Madera-2" data-name="Madera" transform="translate(-317 -97)">
+            <rect id="Madera-3" data-name="Madera" width="17" height="34" transform="translate(317 97)" fill="#bc8122"/>
+            <rect id="Madera-4" data-name="Madera" width="17" height="33" transform="translate(334 97)" fill="#a26a11"/>
+            <rect id="Madera-5" data-name="Madera" width="17" height="17" transform="translate(334 130)" fill="#bc8122"/>
+            <rect id="Madera-6" data-name="Madera" width="17" height="17" transform="translate(317 130)" fill="#a26a11"/>
+        </g>
+    </g>
+</svg>

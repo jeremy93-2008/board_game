@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="280.272" height="230.43" viewBox="0 0 280.272 230.43">
+    <defs>
+        <filter id="Icon_awesome-tshirt" x="0" y="0" width="280.272" height="230.43" filterUnits="userSpaceOnUse">
+            <feOffset dy="3" input="SourceAlpha"/>
+            <feGaussianBlur stdDeviation="3" result="blur"/>
+            <feFlood flood-opacity="0.161"/>
+            <feComposite operator="in" in2="blur"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+    </defs>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Icon_awesome-tshirt)">
+        <path id="Icon_awesome-tshirt-2" data-name="Icon awesome-tshirt" d="M250.7,38.325,173.377,0c-7.983,11.041-25.656,18.746-46.268,18.746S88.823,11.041,80.841,0L3.515,38.325a6.4,6.4,0,0,0-2.86,8.539L23.372,92.338a6.4,6.4,0,0,0,8.539,2.86l22.479-11a6.344,6.344,0,0,1,9.135,5.719V190.634a12.7,12.7,0,0,0,12.709,12.709H177.9a12.7,12.7,0,0,0,12.709-12.709V89.876a6.358,6.358,0,0,1,9.135-5.719l22.479,11a6.333,6.333,0,0,0,8.539-2.86l22.757-45.434a6.341,6.341,0,0,0-2.82-8.539Z" transform="translate(13.03 11.09)" fill="#ddf0c2" stroke="#5c9d03" stroke-width="8"/>
+    </g>
+    <rect id="Rectángulo_101" data-name="Rectángulo 101" width="26" height="27" rx="10" transform="translate(153.635 71.93)" fill="#5c9d03"/>
+</svg>

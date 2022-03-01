@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="327.921" height="366.359" viewBox="0 0 327.921 366.359">
+    <defs>
+        <filter id="Rectángulo_1" x="0" y="0" width="222.944" height="144.673" filterUnits="userSpaceOnUse">
+            <feOffset dy="3" input="SourceAlpha"/>
+            <feGaussianBlur stdDeviation="3" result="blur"/>
+            <feFlood flood-color="#02617e" flood-opacity="0.231"/>
+            <feComposite operator="in" in2="blur"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="Polígono_2" x="69.461" y="129.338" width="246.68" height="217.213" filterUnits="userSpaceOnUse">
+            <feOffset dy="3" input="SourceAlpha"/>
+            <feGaussianBlur stdDeviation="3" result="blur-2"/>
+            <feFlood flood-opacity="0.161"/>
+            <feComposite operator="in" in2="blur-2"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="Rectángulo_3" x="94.887" y="181.468" width="230.46" height="183.958" filterUnits="userSpaceOnUse">
+            <feOffset dy="3" input="SourceAlpha"/>
+            <feGaussianBlur stdDeviation="3" result="blur-3"/>
+            <feFlood flood-opacity="0.161"/>
+            <feComposite operator="in" in2="blur-3"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="Polígono_1" x="88.57" y="92.246" width="125.535" height="123.653" filterUnits="userSpaceOnUse">
+            <feOffset dy="3" input="SourceAlpha"/>
+            <feGaussianBlur stdDeviation="3" result="blur-4"/>
+            <feFlood flood-opacity="0.161"/>
+            <feComposite operator="in" in2="blur-4"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+    </defs>
+    <g id="Componente_6_3" data-name="Componente 6 – 3" transform="matrix(0.899, -0.438, 0.438, 0.899, 9, 97.62)">
+        <rect id="Rectángulo_2" data-name="Rectángulo 2" width="209" height="260" transform="translate(0 39)" fill="#88c4d6"/>
+        <g transform="matrix(0.9, 0.44, -0.44, 0.9, 34.7, -91.69)" filter="url(#Rectángulo_1)">
+            <rect id="Rectángulo_1-2" data-name="Rectángulo 1" width="209" height="39" transform="matrix(0.9, -0.44, 0.44, 0.9, 9, 97.62)" fill="#03799d"/>
+        </g>
+        <text id="Developer" transform="translate(55 26)" fill="#fff" font-size="21" font-family="AvenirNext-UltraLight, Avenir Next" font-weight="100"><tspan x="0" y="0">Developer</tspan></text>
+        <rect id="Rectángulo_6" data-name="Rectángulo 6" width="24.017" height="24.017" transform="translate(181.661 2.243) rotate(45)" fill="#c1e4ef"/>
+        <text id="_-2000" data-name="-2000" transform="translate(171 24)" fill="#03799d" font-size="7" font-family="AvenirNext-Medium, Avenir Next" font-weight="500"><tspan x="0" y="0">-2000</tspan></text>
+        <g id="Icon_awesome-coins" data-name="Icon awesome-coins" transform="translate(178.044 8.495)">
+            <path id="Icon_awesome-coins-2" data-name="Icon awesome-coins" d="M0,5.727v.6c0,.5,1.215.9,2.713.9s2.713-.406,2.713-.9v-.6a5.138,5.138,0,0,1-2.713.6A5.138,5.138,0,0,1,0,5.727ZM4.522,1.809c1.5,0,2.713-.406,2.713-.9S6.019,0,4.522,0,1.809.406,1.809.9,3.024,1.809,4.522,1.809ZM0,4.245v.729c0,.5,1.215.9,2.713.9s2.713-.406,2.713-.9V4.245a4.55,4.55,0,0,1-2.713.729A4.55,4.55,0,0,1,0,4.245ZM5.878,4.4c.81-.157,1.356-.448,1.356-.783v-.6A3.47,3.47,0,0,1,5.878,3.5ZM2.713,2.261C1.215,2.261,0,2.767,0,3.391s1.215,1.13,2.713,1.13,2.713-.506,2.713-1.13S4.211,2.261,2.713,2.261Zm3.1.8c.848-.153,1.423-.452,1.423-.8v-.6a4.6,4.6,0,0,1-2.271.591A1.582,1.582,0,0,1,5.812,3.056Z" fill="#03799d"/>
+        </g>
+        <g transform="matrix(0.9, 0.44, -0.44, 0.9, 34.7, -91.69)" filter="url(#Polígono_2)">
+            <g id="Polígono_2-2" data-name="Polígono 2" transform="matrix(0.9, -0.44, 0.44, 0.9, 78.46, 219.51)" fill="#c1e4ef">
+                <path d="M 187 125.5 L 5 125.5 L 96 4.166666507720947 L 187 125.5 Z" stroke="none"/>
+                <path d="M 96 8.333335876464844 L 10 123 L 182 123 L 96 8.333335876464844 M 96 0 L 192 128 L 0 128 L 96 0 Z" stroke="none" fill="#fff"/>
+            </g>
+        </g>
+        <g transform="matrix(0.9, 0.44, -0.44, 0.9, 34.7, -91.69)" filter="url(#Rectángulo_3)">
+            <rect id="Rectángulo_3-2" data-name="Rectángulo 3" width="192" height="91" rx="20" transform="matrix(0.9, -0.44, 0.44, 0.9, 103.89, 271.64)" fill="#fff"/>
+        </g>
+        <g transform="matrix(0.9, 0.44, -0.44, 0.9, 34.7, -91.69)" filter="url(#Polígono_1)">
+            <g id="Polígono_1-2" data-name="Polígono 1" transform="matrix(0.9, -0.44, 0.44, 0.9, 97.57, 134.09)" fill="#c1e4ef">
+                <path d="M 30.14070892333984 75.17237091064453 C 26.42187118530273 75.17237091064453 22.86574554443359 74.01723480224609 19.85677146911621 71.83184814453125 C 16.84782028198242 69.64646148681641 14.64933300018311 66.62206268310547 13.49898338317871 63.08561325073242 L 6.876233100891113 42.72551345825195 C 5.724733352661133 39.18551254272461 5.724308013916016 35.44307327270508 6.875008106231689 31.90279960632324 C 8.025708198547363 28.36252403259277 10.22640800476074 25.33552360534668 13.23919582366943 23.14904975891113 L 30.6014461517334 10.5486364364624 C 33.60933303833008 8.365711212158203 37.16366958618164 7.211874008178711 40.88019561767578 7.211874008178711 C 44.59673309326172 7.211874008178711 48.15106964111328 8.365711212158203 51.1589469909668 10.5486364364624 L 68.52119445800781 23.1490364074707 C 71.53399658203125 25.33552360534668 73.73469543457031 28.36252403259277 74.88539886474609 31.90279960632324 C 76.03607940673828 35.44306182861328 76.03566741943359 39.18549728393555 74.88417053222656 42.72549819946289 L 68.26140594482422 63.08559799194336 C 67.11116027832031 66.62179565429688 64.91260528564453 69.64613342285156 61.90345764160156 71.83164978027344 C 58.89430999755859 74.01715850830078 55.3382568359375 75.17236328125 51.61970901489258 75.17236328125 L 49.11968231201172 75.17236328125 L 30.14070892333984 75.17237091064453 Z" stroke="none"/>
+                <path d="M 40.88019561767578 9.711875915527344 C 37.69459533691406 9.711875915527344 34.64801025390625 10.70087432861328 32.06982421875 12.57197570800781 L 14.70758056640625 25.17236328125 C 12.12519836425781 27.04649353027344 10.23888397216797 29.64106369018555 9.2525634765625 32.67557907104492 C 8.266250610351562 35.71010589599609 8.266624450683594 38.91790771484375 9.253608703613281 41.95219039916992 L 15.87636566162109 62.31229400634766 C 16.86238098144531 65.34353637695312 18.74679565429688 67.93587493896484 21.32590866088867 69.80906677246094 C 23.90502548217773 71.6822509765625 26.953125 72.67236328125 30.14069747924805 72.67236328125 L 51.61968231201172 72.67236328125 C 54.8072509765625 72.67236328125 57.85536956787109 71.6822509765625 60.43447875976562 69.80906677246094 C 63.01359558105469 67.93586730957031 64.89801025390625 65.34352111816406 65.88402557373047 62.31227874755859 L 72.50678253173828 41.95219039916992 C 73.49376678466797 38.91790771484375 73.494140625 35.71010589599609 72.50782775878906 32.67557907104492 C 71.52150726318359 29.64106369018555 69.63519287109375 27.04649353027344 67.05281066894531 25.17236328125 L 49.6905517578125 12.57196044921875 C 47.11238098144531 10.70087432861328 44.0657958984375 9.711875915527344 40.88019561767578 9.711875915527344 M 40.88019561767578 4.711875915527344 C 45.00223922729492 4.711875915527344 49.12428283691406 5.983024597167969 52.62735366821289 8.525337219238281 L 69.98959350585938 21.1257209777832 C 77.00714111328125 26.21860504150391 79.94367980957031 35.25326156616211 77.26155090332031 43.49883651733398 L 70.6387939453125 63.85892105102539 C 67.95936584472656 72.09620666503906 60.28179550170898 77.67236328125 51.61968231201172 77.67236328125 L 30.14069747924805 77.67236328125 C 21.47858047485352 77.67236328125 13.80104064941406 72.09620666503906 11.12159729003906 63.85893249511719 L 4.49884033203125 43.49883651733398 C 1.81671142578125 35.25326156616211 4.753250122070312 26.21860504150391 11.77079772949219 21.1257209777832 L 29.13303756713867 8.525337219238281 C 32.6361083984375 5.983024597167969 36.75815200805664 4.711875915527344 40.88019561767578 4.711875915527344 Z" stroke="none" fill="#fff"/>
+            </g>
+        </g>
+        <g id="Rectángulo_4" data-name="Rectángulo 4" transform="translate(77 106)" fill="none" stroke="#03799d" stroke-width="2">
+            <rect width="23" height="12" rx="6" stroke="none"/>
+            <rect x="1" y="1" width="21" height="10" rx="5" fill="none"/>
+        </g>
+        <g id="Rectángulo_5" data-name="Rectángulo 5" transform="translate(110 106)" fill="none" stroke="#03799d" stroke-width="2">
+            <rect width="23" height="12" rx="6" stroke="none"/>
+            <rect x="1" y="1" width="21" height="10" rx="5" fill="none"/>
+        </g>
+        <line id="Línea_1" data-name="Línea 1" x2="11.242" transform="translate(99.39 111.207)" fill="none" stroke="#03799d" stroke-width="2"/>
+        <line id="Línea_2" data-name="Línea 2" x2="11.242" transform="translate(99.39 138.29)" fill="none" stroke="#03799d" stroke-width="2"/>
+        <text id="Desarrollador_de_software" data-name="Desarrollador de software" transform="translate(62 214)" font-size="7" font-family="AvenirNext-Regular, Avenir Next"><tspan x="0" y="0">Desarrollador de software</tspan></text>
+        <text id="Lorem_ipsum_dolor_sit_amet_consectetur_adipiscing._Sed_pellentesque_massa_at_eros_placerat_ornare._Nunc_ullamcorper_vel_leo_ut_consectetur._" data-name="Lorem ipsum dolor sit amet, consectetur adipiscing.
+Sed pellentesque massa at eros placerat ornare.
+Nunc ullamcorper vel leo ut consectetur. " transform="translate(17 230)" font-size="6" font-family="AvenirNext-UltraLight, Avenir Next" font-weight="100"><tspan x="0" y="0">Lorem ipsum dolor sit amet, consectetur adipiscing. </tspan><tspan x="0" y="8">Sed pellentesque massa at eros placerat ornare. </tspan><tspan x="0" y="16">Nunc ullamcorper vel leo ut consectetur. </tspan></text>
+        <rect id="Rectángulo_7" data-name="Rectángulo 7" width="64" height="14" rx="7" transform="translate(13 263)" fill="#c1e4ef"/>
+        <text id="_100_Horas_mes" data-name="+100 Horas/mes" transform="translate(17 272)" font-size="7" font-family="AvenirNext-UltraLight, Avenir Next" font-weight="100"><tspan x="0" y="0">+100 Horas/mes</tspan></text>
+        <rect id="Rectángulo_8" data-name="Rectángulo 8" width="62" height="14" rx="7" transform="translate(82 263)" fill="#c1e4ef"/>
+        <text id="_80_Dinero_mes" data-name="+80 Dinero/mes" transform="translate(86 272)" font-size="7" font-family="AvenirNext-UltraLight, Avenir Next" font-weight="100"><tspan x="0" y="0">+80 Dinero/mes</tspan></text>
+        <rect id="Rectángulo_9" data-name="Rectángulo 9" width="47.165" height="13.797" rx="6.899" transform="matrix(1, 0.017, -0.017, 1, 148.827, 262.185)" fill="#c1e4ef"/>
+        <text id="_10_Cultura" data-name="+10 Cultura" transform="translate(153 272)" font-size="7" font-family="AvenirNext-UltraLight, Avenir Next" font-weight="100"><tspan x="0" y="0">+10 Cultura</tspan></text>
+        <path id="Polígono_3" data-name="Polígono 3" d="M7.458,5.57a12.7,12.7,0,0,1,15.084,0l.135.1a12.7,12.7,0,0,1,4.551,14.079l-.135.421A12.7,12.7,0,0,1,15,29h0A12.7,12.7,0,0,1,2.907,20.17l-.135-.421A12.7,12.7,0,0,1,7.323,5.669Z" transform="translate(9 3)" fill="#c1e4ef"/>
+        <text id="_1" data-name="1" transform="translate(19 25)" fill="#03799d" font-size="18" font-family="AvenirNext-Regular, Avenir Next"><tspan x="0" y="0">1</tspan></text>
+    </g>
+</svg>
