@@ -7,6 +7,7 @@ export interface ITheme extends IEntryColor {
     boxShadows: ICSSColors
     borders: ICSSColors
     radialGradient: React.CSSProperties
+    linearGradient: React.CSSProperties
 }
 
 export interface ICSSColors {
