@@ -5,7 +5,7 @@ import { internalThemeAtom } from './internals'
 
 export const ThemedAtom = atom(
     (get) => get(internalThemeAtom),
-    (get, set, _args) => {
-        set(internalThemeAtom, createTheme(_args as IEntryColor))
+    (get, set, _args: IEntryColor) => {
+        set(internalThemeAtom, createTheme(_args))
     }
 )

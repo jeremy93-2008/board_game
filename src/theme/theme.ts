@@ -33,17 +33,29 @@ export function createTheme(colors: IEntryColor): ITheme {
 }
 
 function createTextColor(color: string) {
-    return { color: color }
+    return {
+        color: color,
+        transition: 'color 10s ease-in-out, background 10s ease-in-out',
+    }
 }
 
 function createBackgroundColor(color: string) {
-    return { backgroundColor: color }
+    return {
+        backgroundColor: color,
+        transition: 'color 10s ease-in-out, background 10s ease-in-out',
+    }
 }
 
 function createShadowColor(color: string) {
-    return { boxShadow: `1px 1px 10px ${color}` }
+    return {
+        boxShadow: `1px 1px 10px ${color}`,
+        transition: 'color 10s ease-in-out, background 10s ease-in-out',
+    }
 }
 
 function createBorderColor(color: string) {
-    return { border: `2px solid ${color}` }
+    return {
+        border: `2px solid ${color}`,
+        transition: 'color 10s ease-in-out, background 10s ease-in-out',
+    }
 }

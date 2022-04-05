@@ -1,6 +1,7 @@
 import React from 'react'
 
 export interface ITheme extends IEntryColor {
+    key: string
     texts: ICSSColors
     backgrounds: ICSSColors
     boxShadows: ICSSColors
@@ -21,6 +22,7 @@ export interface IColors {
 }
 
 export interface IEntryColor {
+    key: string
     light: string
     regular: string
     dark: string
