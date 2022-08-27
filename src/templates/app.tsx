@@ -1,6 +1,6 @@
 import React from 'react'
 import { MemoryRouter, Route, Routes } from 'react-router'
-import { Menu } from './menu'
+import { Menu } from './menu/menu'
 import { Game } from './game'
 
 export function App() {

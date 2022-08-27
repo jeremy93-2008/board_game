@@ -29,6 +29,9 @@ export function createTheme(colors: IEntryColor): ITheme {
         radialGradient: {
             background: `radial-gradient(${colors.light}, ${colors.regular})`,
         },
+        linearGradient: {
+            background: `linear-gradient(${colors.light}, ${colors.regular})`,
+        },
     }
 }
 
