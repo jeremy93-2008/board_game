@@ -5,7 +5,6 @@ export const Setting = styled.section<{ color: string }>`
     box-sizing: border-box;
     background-color: ${(props) => props.color};
     overflow: hidden;
-    transition: color 0.2s ease-in-out, transform 0.2s ease-in-out;
     &:hover {
         color: #444;
     }

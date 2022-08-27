@@ -1,4 +1,4 @@
-import React, { useCallback, useEffect, useMemo, useState } from 'react'
+import React, { useCallback, useEffect, useState } from 'react'
 import { useAtom } from 'jotai'
 import { motion } from 'framer-motion'
 import { ThemedAtom } from '../store'
@@ -14,34 +14,20 @@ import card3 from '../assets/menu/card3.svg'
 
 import office from '../assets/menu/office.svg'
 import { Colors, createTheme } from '../theme'
-import { SOverlayMenu } from '../styled/menu'
 
 export function Menu() {
     const [theme, setTheme] = useAtom(ThemedAtom)
     const [isSettingOpen, setSettingOpen] = useState(false)
 
+    useEffect(() => {
+        const themes = Object.values(Colors)
+        const randomNumber = Math.round(Math.random() * 2)
+        setTheme(createTheme(themes.at(randomNumber)))
+    }, [])
+
     const onClickSettings = useCallback(() => {
         setSettingOpen(!isSettingOpen)
     }, [isSettingOpen])
-
-    const nextTheme = useMemo(() => {
-        const keys = Object.keys(Colors)
-        const currentIndex = keys.findIndex((key) => key === theme.key)
-        const nextIndex = currentIndex > keys.length - 2 ? 0 : currentIndex + 1
-        return createTheme(
-            Colors[keys[nextIndex] as 'blue' | 'green' | 'brown']
-        )
-    }, [theme])
-
-    useEffect(() => {
-        const interval = window.setInterval(() => {
-            setTheme(nextTheme)
-        }, 10000)
-
-        return () => {
-            clearInterval(interval)
-        }
-    }, [theme])
 
     const settingAnimation = {
         hidden: {
@@ -67,15 +53,6 @@ export function Menu() {
             className="flex flex-col justify-center items-center relative h-[100vh]"
             style={theme.radialGradient}
         >
-            <SOverlayMenu
-                animate={{ opacity: 1 }}
-                transition={{
-                    duration: 10000,
-                    repeatType: 'loop',
-                    repeat: Infinity,
-                }}
-                colors={[nextTheme.light, nextTheme.regular]}
-            />
             <motion.section
                 animate={isSettingOpen ? 'visible' : 'hidden'}
                 variants={settingAnimation}

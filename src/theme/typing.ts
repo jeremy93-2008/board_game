@@ -22,6 +22,7 @@ export interface IColors {
 }
 
 export interface IEntryColor {
+    idx: number
     key: string
     light: string
     regular: string

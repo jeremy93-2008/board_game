@@ -5,7 +5,6 @@ export const Menu = styled.section<{ color: string; order?: 'even' | 'odd' }>`
     box-sizing: border-box;
     background-color: ${(props) => props.color};
     overflow: hidden;
-    transition: color 0.2s ease-in-out, transform 0.2s ease-in-out;
     -webkit-backface-visibility: hidden;
 
     &:hover {

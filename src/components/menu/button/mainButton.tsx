@@ -20,8 +20,7 @@ export function MainButton(props: IButton) {
                 font-bold px-4 py-4 cursor-pointer relative ${props.className}`}
             style={{
                 ...theme.boxShadows.regular,
-                transition:
-                    'color 0.2s ease-in-out, background 10s ease-in-out',
+                transition: 'color 0.2s ease-in-out',
             }}
         >
             <span className="text">{props.children}</span>
