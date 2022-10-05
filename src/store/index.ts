@@ -1,1 +1,0 @@
-export { ThemedAtom } from './store'
